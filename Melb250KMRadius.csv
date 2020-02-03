@@ -1,0 +1,1645 @@
+PostCode,Suburb,DistanceFromMelbourne
+3000,Melbourne,0
+3006,Southbank,1.04
+3002,East Melbourne,1.56
+3005,World Trade Centre,1.6
+3065,Fitzroy,1.71
+3121,Richmond South,1.86
+3008,Docklands,1.95
+3066,Collingwood,1.99
+3207,Garden City,2.05
+3051,North Melbourne,2.06
+3010,University Of Melbourne,2.19
+3050,Royal Melbourne Hospital,2.19
+3052,Melbourne University,2.19
+3205,South Melbourne,2.37
+3121,Cremorne,2.44
+3121,Richmond,2.58
+3004,Melbourne,2.59
+3121,Richmond East,2.65
+3003,West Melbourne,2.72
+3067,Abbotsford,2.88
+3141,South Yarra,3.17
+3206,Albert Park,3.18
+3066,Collingwood North,3.29
+3053,Carlton,3.36
+3054,Carlton North,3.36
+3052,Parkville,3.51
+3068,Clifton Hill,3.51
+3121,Burnley,3.51
+3121,Richmond North,3.59
+3122,Hawthorn North,3.62
+3143,Armadale North,3.62
+3121,Burnley North,3.64
+3068,Fitzroy North,3.69
+3054,Princes Hill,3.79
+3206,Middle Park,3.94
+3142,Hawksburn,4.15
+3122,Hawthorn West,4.18
+3031,Kensington,4.25
+3181,Prahran,4.4
+3031,Flemington,4.48
+3123,Hawthorn East,4.54
+3053,Carlton South,4.87
+3181,Windsor,5.01
+3070,Northcote South,5.09
+3182,St Kilda West,5.16
+3142,Toorak,5.19
+3055,Brunswick South,5.24
+3032,Travancore,5.41
+3070,Northcote,5.43
+3057,Brunswick East,5.58
+3055,Brunswick West,5.84
+3182,St Kilda,5.94
+3078,Fairfield,5.95
+3032,Ascot Vale,5.96
+3056,Brunswick,6
+3056,Brunswick North,6.06
+3144,Kooyong,6.16
+3055,Moonee Vale,6.22
+3056,Brunswick Lower,6.32
+3183,St Kilda East,6.34
+3011,Footscray,6.42
+3183,Balaclava,6.45
+3078,Alphington,6.54
+3143,Armadale,6.54
+3019,Robinson,6.58
+3101,Cotham,6.59
+3011,Seddon,6.6
+3123,Auburn,6.83
+3039,Moonee Ponds,7.05
+3013,Yarraville,7.07
+3071,Thornbury,7.07
+3102,Kew East,7.21
+3185,Ripponlea,7.27
+3144,Malvern,7.3
+3122,Auburn South,7.32
+3058,Moreland,7.4
+3019,Braybrook North,7.48
+3144,Malvern North,7.48
+3122,Hawthorn,7.53
+3101,Kew,7.56
+3181,Prahran East,7.59
+3013,Yarraville West,7.62
+3015,Spotswood,7.67
+3012,Kingsville,7.77
+3124,Camberwell,7.79
+3016,Williamstown,7.92
+3184,Brighton Road,7.93
+3058,Coburg,7.94
+3079,Ivanhoe,8
+3040,Essendon,8.09
+3161,Caulfield Junction,8.09
+3012,West Footscray,8.16
+3015,Newport,8.26
+3184,Elwood,8.28
+3124,Middle Camberwell,8.29
+3185,Elsternwick,8.35
+3032,Highpoint City,8.5
+3072,Preston South,8.62
+3044,Pascoe Vale South,8.65
+3124,Camberwell North,8.7
+3124,Camberwell South,8.7
+3016,Williamstown North,8.74
+3032,Maribyrnong,8.77
+3162,Hopetoun Gardens,8.77
+3072,Preston,8.84
+3162,Caulfield,8.85
+3060,Fawkner,8.94
+3015,South Kingsville,8.99
+3072,Preston Lower,9
+3145,Central Park,9.02
+3058,Batman,9.03
+3079,Ivanhoe East,9.1
+3126,Canterbury,9.1
+3072,Preston West,9.11
+3040,Aberfeldie,9.15
+3012,Maidstone,9.17
+3104,Balwyn North,9.24
+3145,Caulfield East,9.24
+3162,Caulfield South,9.24
+3058,Coburg North,9.31
+3011,Seddon West,9.4
+3012,Kingsville West,9.4
+3041,Essendon North,9.44
+3188,Hampton North,9.47
+3072,Northland Centre,9.51
+3081,Heidelberg West,9.57
+3081,Bellfield,9.61
+3146,Glen Iris,9.61
+3185,Gardenvale,9.66
+3124,Hartwell,9.81
+3041,Strathmore,9.83
+3103,Balwyn,9.86
+3040,Essendon West,9.88
+3025,Altona East,9.97
+3012,Tottenham,10.03
+3044,Pascoe Vale,10.05
+3186,Brighton North,10.31
+3163,Glen Huntly,10.35
+3084,Eaglemont,10.37
+3058,Merlynston,10.44
+3187,Brighton East,10.44
+3187,North Road,10.45
+3145,Darling,10.48
+3085,Macleod West,10.56
+3081,Heidelberg Heights,10.6
+3084,Heidelberg,10.69
+3161,Caulfield North,10.76
+3012,Brooklyn,10.82
+3019,Braybrook,10.83
+3073,Reservoir East,10.88
+3105,Bulleen,10.88
+3073,Reservoir North,11.01
+3079,Ivanhoe North,11.01
+3025,Altona North,11.02
+3147,Ashburton,11.02
+3186,Brighton,11.12
+3145,Malvern East,11.13
+3103,Balwyn East,11.14
+3124,Camberwell West,11.2
+3127,Surrey Hills,11.23
+3025,Altona Gate,11.24
+3042,Niddrie,11.28
+3126,Camberwell East,11.28
+3127,Surrey Hills North,11.3
+3125,Surrey Hills South,11.31
+3073,Reservoir South,11.32
+3073,Reservoir,11.33
+3163,Carnegie,11.34
+3104,Greythorn,11.43
+3084,Rosanna,11.53
+3055,Moreland West,11.57
+3046,Oak Park,11.59
+3204,Ormond,11.72
+3060,Fawkner East,11.85
+3127,Mont Albert,11.86
+3186,Dendy,11.94
+3163,Murrumbeena,12.03
+3128,Wattle Park,12.07
+3147,Ashwood,12.14
+3204,Mckinnon,12.24
+3046,Hadfield,12.26
+3083,La Trobe University,12.37
+3086,La Trobe University,12.37
+3060,Fawkner North,12.38
+3129,Mont Albert North,12.48
+3083,Kingsbury,12.54
+3148,Holmesglen,12.55
+3018,Seaholme,12.61
+3041,Strathmore Heights,12.62
+3148,Chadstone,12.68
+3148,Chadstone Centre,12.68
+3204,Bentleigh,12.85
+3084,Banyule,12.97
+3166,Hughesdale,12.98
+3085,Macleod,13.09
+3128,Box Hill,13.1
+3046,Glenroy,13.13
+3170,Mulgrave,13.15
+3125,Bennettswood,13.21
+3128,Box Hill Central,13.27
+3020,Sunshine North,13.31
+3107,Templestowe Lower,13.34
+3128,Box Hill South,13.41
+3020,Sunshine West,13.44
+3042,Airport West,13.58
+3018,Altona,13.71
+3043,Gowanbrae,13.74
+3204,Patterson,13.75
+3073,Keon Park,13.82
+3108,Doncaster,13.83
+3129,Box Hill North,13.83
+3084,Viewbank,13.89
+3020,Albion,13.93
+3093,Lower Plenty,13.93
+3106,Templestowe,13.93
+3166,Oakleigh,13.97
+3192,Cheltenham North,14.05
+3188,Hampton East,14.38
+3020,Glengala,14.42
+3128,Houston,14.43
+3042,Keilor Park,14.53
+3189,Moorabbin,14.54
+3047,Jacana,14.62
+3129,Kerrimuir,14.63
+3165,Bentleigh East,14.79
+3165,Coatesville,14.85
+3021,Kealba,15.01
+3087,Watsonia,15.01
+3085,Yallambie,15.11
+3166,Oakleigh East,15.21
+3022,Ardeer,15.28
+3130,Laburnum,15.39
+3074,Thomastown,15.42
+3083,Bundoora,15.44
+3149,Mount Waverley,15.44
+3047,Broadmeadows,15.49
+3151,Burwood East,15.56
+3026,Laverton North,15.6
+3130,Blackburn South,15.61
+3166,Huntingdale,15.77
+3191,Sandringham,15.77
+3034,Avondale Heights,15.82
+3190,Highett,15.85
+3043,Gladstone Park,15.94
+3130,Blackburn North,15.98
+3036,Keilor,16
+3047,Dallas,16.08
+3130,Blackburn,16.13
+3043,Tullamarine,16.18
+3075,Lalor Plaza,16.24
+3087,Watsonia North,16.37
+3151,Burwood Heights,16.37
+3125,Burwood,16.51
+3167,Oakleigh South,16.7
+3149,Syndal,16.81
+3049,Westmeadows,16.82
+3109,Doncaster Heights,16.85
+3021,St Albans,16.87
+3088,Greensborough,16.9
+3075,Lalor,17.04
+3038,Keilor Downs,17.11
+3022,Deer Park East,17.23
+3094,Montmorency,17.28
+3131,Forest Hill,17.37
+3149,Pinewood,17.44
+3192,Southland Centre,17.57
+3033,Keilor East,17.59
+3030,Derrimut,17.6
+3088,Briar Hill,17.61
+3132,Mitcham North,17.73
+3023,Deer Park,17.87
+3800,Monash University,17.97
+3049,Attwood,17.98
+3168,Clayton,18
+3028,Altona Meadows,18.03
+3023,Burnside Heights,18.06
+3131,Nunawading,18.06
+3193,Black Rock,18.13
+3082,Mill Park,18.14
+3168,Notting Hill,18.19
+3169,Clarinda,18.25
+3192,Cheltenham,18.29
+3036,Keilor North,18.36
+3048,Coolaroo,18.43
+3150,Glen Waverley,18.58
+3109,The Pines,18.62
+3207,Port Melbourne,18.68
+3048,Meadow Heights,18.8
+3192,Cheltenham East,18.85
+3021,Kings Park,18.89
+3131,Brentford Square,18.94
+3061,Campbellfield,19.07
+3027,Laverton Raaf,19.1
+3021,Albanvale,19.18
+3028,Laverton,19.21
+3111,Donvale,19.25
+3062,Somerton,19.26
+3095,Eltham,19.26
+3133,Vermont South,19.31
+3029,Truganina,19.48
+3169,Clayton South,19.5
+3132,Mitcham,19.63
+3109,Doncaster East,19.72
+3088,Saint Helena,19.73
+3193,Black Rock North,19.83
+3133,Vermont,19.85
+3023,Cairnlea,19.87
+3193,Beaumaris,19.87
+3076,Epping,19.89
+3194,Mentone East,19.9
+3028,Seabrook,19.93
+3037,Delahey,19.99
+3193,Cromer,20.01
+3064,Roxburgh Park,20.04
+3045,Melbourne Airport,20.15
+3038,Keilor Lodge,20.16
+3132,Rangeview,20.28
+3023,Burnside,20.3
+3059,Greenvale,20.38
+3194,Mentone,20.47
+3095,Eltham North,20.55
+3038,Taylors Lakes,20.58
+3023,Deer Park North,20.72
+3090,Plenty,20.87
+3023,Ravenhall,21.04
+3752,Morang South,21.04
+3752,South Morang,21.04
+3038,Watergardens,21.26
+3037,Taylors Hill,21.31
+3194,Moorabbin Airport,21.39
+3114,Park Orchards,21.84
+3195,Parkdale,21.85
+3150,Wheelers Hill,21.88
+3172,Dingley Village,22
+3037,Sydenham,22.11
+3023,Caroline Springs,22.12
+3030,Point Cook,22.23
+3095,Research,22.23
+3171,Sandown Village,22.31
+3134,Ringwood,22.58
+3170,Waverley Gardens,22.65
+3049,Calder Park,22.71
+3152,Wantirna,23
+3171,Springvale,23.39
+3172,Springvale South,23.39
+3174,Noble Park East,23.4
+3134,Ringwood North,23.51
+3063,Oaklands Junction,23.55
+3195,Mordialloc,23.73
+3113,Warrandyte,23.84
+3113,North Warrandyte,23.91
+3134,Warrandyte South,23.97
+3152,Wantirna South,24.04
+3064,Craigieburn,24.11
+3091,Yarrambat,24.12
+3135,Heathmont,24.14
+3135,Bedford Road,24.29
+3135,Ringwood East,24.36
+3029,Tarneit,24.38
+3037,Hillside,24.44
+3428,Bulla,24.55
+3152,Knox City Centre,24.57
+3195,Waterways,24.78
+3174,Noble Park,24.79
+3750,Wollert,24.8
+3134,Warranwood,24.84
+3029,Hoppers Crossing,24.88
+3195,Braeside,24.89
+3174,Noble Park North,24.94
+3173,Keysborough,25
+3096,Wattle Glen,25.19
+3097,Kangaroo Ground,25.51
+3180,Knoxfield,25.78
+3153,Bayswater,26.2
+3195,Aspendale,26.24
+3063,Yuroke,26.26
+3136,Croydon South,26.28
+3179,Scoresby,26.42
+3178,Rowville,26.5
+3175,Dunearn,26.55
+3195,Aspendale Gardens,26.61
+3175,Dandenong North,26.63
+3153,Bayswater North,26.83
+3754,Mernda,27.03
+3136,Croydon Hills,27.19
+3754,Doreen,27.26
+3136,Croydon,27.33
+3155,Boronia,27.33
+3202,Heatherton,27.51
+3099,Hurstbridge,27.53
+3196,Edithvale,27.56
+3115,Wonga Park,27.7
+3156,Mountain Gate,27.92
+3175,Dandenong,28.76
+3335,Plumpton,28.84
+3099,Nutfield,28.89
+3136,Croydon North,28.92
+3089,Diamond Creek,28.96
+3030,Werribee,29.16
+3030,Werribee South,29.16
+3137,Kilsyth South,29.25
+3064,Mickleham,29.33
+3196,Chelsea,29.36
+3196,Chelsea Heights,29.5
+3156,Ferntree Gully,29.54
+3335,Rockbank,29.64
+3097,Watsons Creek,29.83
+3154,The Basin,29.87
+3751,Woodstock,30.01
+3137,Kilsyth,30.07
+3099,Cottles Bridge,30.23
+3427,Diggers Rest,30.27
+3064,Donnybrook,30.31
+3175,Bangholme,30.45
+3196,Bonbeach,30.51
+3097,Bend Of Islands,30.52
+3759,Panton Hill,30.56
+3802,Endeavour Hills,30.68
+3429,Wildwood,30.7
+3156,Lysterfield South,30.81
+3755,Yan Yean,30.95
+3177,Doveton,31.05
+3024,Wyndham Vale,31.12
+3156,Upper Ferntree Gully,31.16
+3175,Dandenong South,31.74
+3064,Kalkallo,31.78
+3156,Lysterfield,31.78
+3177,Eumemmerring,31.91
+3138,Mooroolbark,31.92
+3197,Patterson Lakes,32
+3197,Carrum,32.05
+3116,Chirnside Park,32.11
+3024,Mount Cottrell,32.17
+3765,Montrose,32.45
+3158,Upwey,33.21
+3787,Sassafras Gully,33.31
+3099,Arthurs Creek,33.35
+3786,Ferny Creek,33.49
+3803,Hallam,33.66
+3429,Sunbury,33.77
+3140,Lilydale,33.81
+3767,Mount Dandenong,34.11
+3160,Tecoma,34.37
+3766,Kalorama,34.88
+3788,Olinda,34.93
+3760,Smiths Gully,35.33
+3160,Belgrave,35.36
+3789,Sherbrooke,35.42
+3787,Sassafras,35.49
+3804,Narre Warren North,35.49
+3775,Christmas Hills,35.57
+3338,Eynesbury,35.6
+3976,Hampton Park,35.6
+3796,Mount Evelyn,35.69
+3160,Belgrave Heights,35.77
+3757,Whittlesea,35.8
+3975,Lyndhurst,35.81
+3198,Seaford,36.17
+3977,Sandhurst,36.27
+3201,Carrum Downs,36.34
+3975,Lynbrook,36.37
+3198,Belvedere Park,36.43
+3757,Eden Park,36.45
+3030,Quandong,36.58
+3160,Belgrave South,36.7
+3338,Melton South,36.86
+3805,Fountain Gate,36.93
+3337,Kurunjang,36.97
+3159,Selby,37
+3337,Melton,37.04
+3770,Coldstream,37.25
+3024,Mambourin,37.54
+3199,Frankston Heights,37.66
+3200,Pines Forest,37.75
+3805,Narre Warren,37.77
+3770,Yering,37.84
+3792,The Patch,37.95
+3030,Cocoroc,38.12
+3175,Dandenong East,38.25
+3338,Exford,38.27
+3804,Narre Warren East,38.37
+3753,Beveridge,38.53
+3806,Harkaway,38.58
+3337,Melton West,38.79
+3805,Narre Warren South,38.89
+3793,Monbulk,38.95
+3795,Silvan,39.06
+3199,Frankston,39.09
+3139,Wandin North,39.29
+3977,Skye,39.46
+3775,Yarra Glen,39.54
+3791,Kallista,39.79
+3338,Brookfield,39.8
+3159,Menzies Creek,39.84
+3199,Frankston East,39.94
+3977,Cranbourne North,40.09
+3199,Karingal,40.22
+3199,Karingal Centre,40.22
+3199,Frankston South,40.33
+3806,Berwick,40.67
+3337,Toolern Vale,40.73
+3099,Strathewen,40.85
+3977,Cranbourne West,41.06
+3757,Humevale,41.54
+3430,Clarkefield,41.76
+3782,Clematis,41.76
+3770,Gruyere,42.09
+3977,Cranbourne,42.11
+3910,Langwarrin,42.19
+3757,Bruces Creek,42.2
+3220,Bareena,42.55
+3223,Indented Head,42.63
+3211,Little River,42.67
+3930,Mount Eliza,42.74
+3807,Guys Hill,42.85
+3930,Kunyung,43
+3139,Wandin East,43.05
+3977,Cranbourne South,43.1
+3775,Steels Creek,43.16
+3807,Beaconsfield,43.25
+3139,Seville,43.29
+3782,Emerald,43.31
+3200,Frankston North,43.41
+3223,Portarlington,43.54
+3340,Hopetoun Park,43.66
+3808,Beaconsfield Upper,43.97
+3756,Wallan East,44.07
+3757,Kinglake West,44.24
+3756,Upper Plenty,44.39
+3808,Dewhurst,44.42
+3756,Wallan,44.65
+3340,Balliang East,44.91
+3340,Long Forest,44.91
+3437,Gisborne South,44.93
+3775,Tarrawarra,45.14
+3782,Avonsleigh,45.19
+3223,St Leonards,45.43
+3911,Baxter,45.43
+3432,Bolinda,45.56
+3977,Cranbourne East,45.6
+3757,Kinglake Central,45.84
+3763,Kinglake,45.84
+3977,Junction Village,45.85
+3757,Pheasant Creek,45.93
+3775,Dixons Creek,46
+3978,Clyde North,46.08
+3782,Macclesfield,46.16
+3340,Merrimu,46.21
+3340,Parwan,46.24
+3139,Seville East,46.39
+3221,Bellarine,46.53
+3911,Langwarrin South,46.56
+3756,Hidden Valley,46.64
+3756,Darraweit Guim,46.95
+3139,Yellingbo,47.26
+3431,Riddells Creek,47.35
+3763,Mount Slide,47.36
+3809,Officer,47.41
+3781,Cockatoo,47.7
+3978,Clyde,47.81
+3931,Mornington,47.84
+3933,Moorooduc,48.09
+3756,Chintin,48.15
+3758,Heathcote Junction,48.27
+3912,Pearcedale,48.88
+3912,Somerville,48.95
+3340,Bacchus Marsh,49.3
+3437,Gisborne,49.32
+3977,Devon Meadows,49.34
+3139,Woori Yallock,49.36
+3781,Nangana,49.49
+3340,Darley,49.55
+3139,Beenak,49.97
+3340,Maddingley,50.46
+3212,Point Wilson,50.67
+3781,Mount Burnett,50.71
+3777,Castella,50.9
+3777,Healesville,51.21
+3438,New Gisborne,51.28
+3758,Wandong,51.34
+3777,Chum Creek,51.46
+3340,Coimadai,51.62
+3809,Officer South,51.68
+3777,Badger Creek,52.2
+3222,Clifton Springs,52.31
+3434,Springfield,52.35
+3810,Pakenham Upper,52.37
+3340,Balliang,52.48
+3139,Launching Place,52.53
+3434,Kerrie,52.93
+3222,Drysdale,52.98
+3913,Tyabb,53
+3777,Toolangi,53.16
+3783,Gembrook,53.18
+3340,Rowsley,53.26
+3977,Cannons Creek,53.64
+3437,Bullengarook,54.13
+3978,Cardinia,54.17
+3777,Mount Toolebewong,54.23
+3980,Warneet,54.27
+3934,Mount Martha,54.28
+3225,Swan Island,54.34
+3810,Pakenham,54.39
+3212,Lara,54.47
+3915,Tuerong,54.5
+3139,Don Valley,54.63
+3980,Blind Bight,54.73
+3658,Clonbinane,54.85
+3139,Hoddles Creek,55.15
+3434,Romsey,55.53
+3434,Cherokee,55.63
+3936,Safety Beach,55.66
+3222,Mannerim,55.96
+3764,Forbes,56.08
+3812,Nar Nar Goon North,56.22
+3341,Pentland Hills,56.46
+3797,Yarra Junction,56.63
+3980,Tooradin,56.82
+3810,Rythdale,56.86
+3440,Macedon,57.1
+3225,Queenscliff,57.13
+3441,Mount Macedon,57.3
+3222,Curlewis,57.46
+3764,Kilmore,57.67
+3936,Dromana,57.68
+3658,Waterford Park,57.7
+3225,Swan Bay,57.72
+3340,Glenmore,58.11
+3915,Hastings,58.12
+3764,Kilmore East,58.31
+3810,Pakenham South,58.95
+3981,Dalmore,59.01
+3658,Flowerdale,59.34
+3717,Flowerdale,59.34
+3799,Wesburn,59.35
+3221,Wallington,59.43
+3658,Hazeldene,59.51
+3936,Arthurs Seat,60.05
+3938,Mccrae,60.25
+3797,Gladysdale,60.32
+3799,Millgrove,60.34
+3812,Nar Nar Goon,60.38
+3939,Rosebud,60.38
+3939,Rosebud Plaza,60.39
+3442,Hesket,60.41
+3224,Leopold,60.72
+3221,Staughton Vale,60.73
+3926,Merricks North,60.77
+3214,Corio,60.9
+3918,Bittern,60.91
+3225,Point Lonsdale,60.99
+3222,Marcus Hill,61.17
+3812,Maryknoll,61.23
+3214,North Shore,61.27
+3341,Korobeit,61.31
+3442,Rochford,61.62
+3764,Willowmavin,61.64
+3341,Myrniong,61.77
+3937,Red Hill,61.88
+3458,Lerderderg,61.89
+3214,Norlane,62.1
+3981,Koo Wee Rup North,62.14
+3813,Tynong North,62.21
+3717,Glenburn,62.27
+3941,Tootgarook,62.27
+3943,Sorrento,62.31
+3797,Three Bridges,62.37
+3221,Moolap,62.47
+3658,Sunday Creek,62.47
+3981,Koo Wee Rup,62.53
+3944,Portsea,62.56
+3342,Ingliston,62.82
+3942,Blairgowrie,63.06
+3226,Ocean Grove,63.1
+3941,Rye,63.13
+3658,Reedy Creek,63.3
+3937,Red Hill South,63.31
+3435,Lancefield,63.38
+3442,Hanging Rock,63.44
+3799,Warburton,63.52
+3221,Anakie,63.56
+3926,Balnarring,63.64
+3984,Monomeith,63.73
+3435,Goldie,63.92
+3215,Geelong North,64.07
+3215,North Geelong,64.07
+3442,Woodend,64.14
+3215,Rippleside,64.18
+3221,Lovely Banks,64.31
+3219,Newcomb,64.52
+3764,Moranding,64.58
+3919,Crib Point,64.65
+3219,East Geelong,64.71
+3215,Drumcondra,64.72
+3215,Bell Post Hill,64.83
+3813,Tynong,64.84
+3341,Greendale,64.85
+3442,Newham,64.92
+3220,Geelong,64.98
+3219,Whittington,64.99
+3219,Thomson,65.04
+3916,Merricks,65.07
+3927,Somers,65.13
+3928,Main Ridge,65.14
+3215,Bell Park,65.17
+3939,Boneo,65.18
+3926,Balnarring Beach,65.22
+3797,Gilderoy,65.23
+3218,Geelong West,65.58
+3219,Breakwater,65.63
+3764,Tantaraboo,65.78
+3785,Tremont,65.81
+3215,Hamlyn Heights,65.86
+3219,St Albans Park,66.16
+3926,Merricks Beach,66.2
+3218,Herne Hill,66.3
+3342,Beremboke,66.33
+3442,Ashbourne,66.34
+3442,Woodend North,66.35
+3220,South Geelong,66.37
+3221,Moorabool,66.44
+3778,Narbethong,66.5
+3981,Bayles,66.61
+3227,Barwon Heads,66.68
+3342,Mount Wallace,66.72
+3218,Manifold Heights,66.74
+3341,Dales Creek,66.75
+3814,Cora Lynn,66.75
+3814,Garfield North,66.94
+3921,French Island,66.98
+3342,Fiskville,67.06
+3658,Tyaak,67.11
+3778,Fernshaw,67.23
+3220,Newtown,67.24
+3799,East Warburton,67.39
+3442,Cobaw,67.52
+3916,Point Leo,67.55
+3658,Strath Creek,67.93
+3941,St Andrews Beach,67.99
+3216,Belmont,68.09
+3342,Durdidwarrah,68.15
+3221,Batesford,68.18
+3815,Tonimbuk,68.18
+3939,Fingal,68.34
+3658,Broadford,68.36
+3799,Big Pats Creek,68.41
+3916,Shoreham,68.48
+3221,Fyansford,68.53
+3442,Cadello,68.84
+3797,Powelltown,69
+3814,Garfield,69.23
+3331,Sutherlands Creek,69.27
+3921,Tankerton,69.36
+3216,Highton,69.47
+3331,Steiglitz,69.49
+3458,Trentham East,69.66
+3342,Ballan,69.72
+3458,Blackwood,69.75
+3458,North Blackwood,70.28
+3227,Connewarre,70.4
+3216,Wandana Heights,70.51
+3814,Vervale,70.7
+3984,Caldermeade,70.73
+3815,Bunyip North,70.82
+3331,Gheringhap,70.84
+3764,High Camp,70.88
+3216,Grovedale,71.07
+3442,Carlsruhe,71.17
+3216,Grovedale East,71.33
+3331,Maude,71.89
+3458,Fern Hill,71.91
+3458,Barrys Reef,71.94
+3984,Lang Lang,72.24
+3717,Murrindindi,72.25
+3815,Bunyip,72.49
+3981,Catani,72.55
+3939,Cape Schanck,72.58
+3221,Stonehaven,72.63
+3331,Russells Bridge,72.72
+3342,Colbrook,72.78
+3217,Deakin University,72.79
+3444,Pipers Creek,72.8
+3815,Iona,72.92
+3227,Breamlea,73.31
+3929,Flinders,73.41
+3444,Tylden South,73.43
+3216,Mount Duneed,73.46
+3444,Tylden,73.67
+3435,Benloch,73.68
+3458,Trentham,73.87
+3221,Ceres,73.93
+3435,Nulla Vale,74.01
+3331,She Oaks,74.07
+3216,Waurn Ponds,74.17
+3922,Ventnor,74.21
+3342,Bunding,74.34
+3984,Jam Jerrup,74.42
+3922,Cowes,74.49
+3984,Pioneer Bay,74.53
+3981,Yannathan,74.57
+3331,Bannockburn,74.69
+3444,Kyneton South,74.71
+3332,Lethbridge,74.77
+3458,Newbury,74.97
+3984,Adams Estate,75.45
+3922,Silverleaves,75.71
+3342,Blakeville,75.91
+3717,Limestone,76.08
+3717,Homewood,76.09
+3221,Barrabool,76.22
+3779,Marysville,76.31
+3659,Sugarloaf Creek,76.48
+3444,Pastoria East,76.5
+3444,Pastoria,76.67
+3799,Mcmahons Creek,76.68
+3816,Longwarry North,76.83
+3816,Modella,76.86
+3984,Lang Lang East,77.28
+3833,Ada,77.29
+3833,Gentle Annie,77.43
+3521,Pyalong,77.55
+3816,Longwarry,77.6
+3923,Rhyll,77.66
+3444,Kyneton,77.71
+3922,Wimbledon Heights,77.75
+3334,Bungal,77.84
+3444,Spring Hill,77.96
+3984,Corinella,77.98
+3717,Yea,78.01
+3458,Little Hampton,78.27
+3922,Summerlands,78.45
+3333,Meredith,78.54
+3711,Buxton,78.74
+3352,Mount Egerton,78.77
+3660,Kerrisdale,78.77
+3461,Lyonville,78.87
+3522,Emu Flat,78.96
+3660,Trawool,79.69
+3816,Labertouche,79.7
+3461,Bullarto South,79.78
+3981,Heath Hill,79.96
+3221,Murgheboluc,79.97
+3444,Baynton,80.07
+3922,Sunset Strip,80.07
+3444,Baynton East,80.28
+3345,Gordon,80.38
+3764,Glenaroua,80.44
+3922,Smiths Beach,80.52
+3216,Freshwater Creek,80.6
+3228,Torquay,80.76
+3984,Coronet Bay,80.79
+3461,Bullarto,80.87
+3984,The Gurdies,80.89
+3659,Tallarook,81.01
+3221,Gnarwarre,81.14
+3461,Spargo Creek,81.24
+3717,Killingworth,81.26
+3799,Reefton,81.41
+3240,Mount Moriac,81.44
+3334,Mount Doran,81.49
+3922,Sunderland Bay,81.61
+3984,Queensferry,81.64
+3444,Edgecombe,81.87
+3818,Ripplebrook,82.33
+3984,Grantville,82.33
+3922,Surf Beach,82.5
+3925,Churchill Island,82.68
+3352,Lal Lal,82.83
+3334,Elaine,82.84
+3228,Jan Juc,82.89
+3444,Sidonia,83.02
+3444,Lauriston,83.11
+3889,Bellbird Creek,83.11
+3714,Crystal Creek,83.71
+3333,Bamganie,83.82
+3461,Korweinguboora,83.88
+3352,Bolwarrah,83.99
+3717,Ghin Ghin,84.08
+3987,Nyora,84.14
+3352,Millbrook,84.18
+3984,Tenby Point,84.18
+3461,Denver,84.25
+3228,Bellbrae,84.36
+3461,Musk,84.38
+3240,Moriac,84.46
+3818,Drouin West,84.52
+3328,Teesdale,84.65
+3444,Greenhill,84.75
+3818,Drouin South,84.76
+3818,Jindivick,84.8
+3352,Springbank,84.85
+3925,Newhaven,84.91
+3444,Langley,85.1
+3818,Athlone,85.23
+3832,Nayook,85.3
+3714,Taggerty,85.31
+3779,Cambarville,85.34
+3461,Drummond,85.4
+3818,Drouin,85.72
+3991,Bass,85.88
+3990,Glen Forbes,86
+3925,San Remo,86.03
+3461,Wheatsheaf,86.04
+3979,Almurta,86.04
+3321,Inverleigh,86.06
+3228,Bells Beach,86.09
+3352,Wallace,86.14
+3461,Glenlyon,86.17
+3240,Paraparap,86.31
+3240,Modewarre,86.6
+3522,Tooborac,86.69
+3446,Malmsbury,86.8
+3461,Leonards Hill,86.81
+3334,Cargerie,86.97
+3444,Glenhope,87.02
+3352,Barkstead,87.18
+3833,Piedmont,87.18
+3925,Cape Woolamai,87.27
+3461,Sailors Falls,87.34
+3979,Kernot,87.43
+3461,Coomoora,87.51
+3988,Poowong North,87.61
+3832,Neerim Junction,87.83
+3444,Metcalfe East,88.27
+3352,Clarendon,88.34
+3818,Drouin East,88.7
+3821,Bravington,88.72
+3660,Seymour South,88.8
+3945,Woodleigh,88.81
+3821,Rokeby,88.93
+3660,Seymour,88.94
+3352,Claretown,89.03
+3660,Dysart,89.2
+3831,Neerim South,89.22
+3945,Loch,89.34
+3821,Brandy Creek,89.39
+3821,Warragul West,89.49
+3995,Anderson,89.56
+3460,Daylesford,89.81
+3714,Acheron,89.83
+3329,Shelford,89.98
+3995,Woolamai,90
+3461,Sailors Hill,90.02
+3833,Baw Baw Village,90.06
+3240,Buckley,90.13
+3831,Neerim East,90.15
+3444,Barfold,90.19
+3352,Bungaree,90.21
+3352,Yendon,90.28
+3352,Mollongghip,90.31
+3821,Warragul South,90.38
+3660,Highlands,90.44
+3821,Lardner,90.66
+3833,Noojee,90.68
+3718,Molesworth,90.72
+3446,Drummond North,90.74
+3352,Dunnstown,90.85
+3660,Kobyboyn,90.96
+3818,Hallora,91
+3988,Poowong,91.08
+3363,Langdons Hill,91.14
+3461,Hepburn,91.19
+3461,Musk Vale,91.19
+3831,Neerim,91.27
+3821,Crossover,91.33
+3461,Dry Diggings,91.36
+3833,Loch Valley,91.38
+3364,Rocklyn,91.39
+3832,Neerim North,91.5
+3660,Whiteheads Creek,91.51
+3821,Buln Buln,91.53
+3352,Bullarook,91.55
+3461,Hepburn Springs,91.97
+3352,Navigators,92.12
+3523,Heathcote South,92.57
+3461,Porcupine Ridge,92.62
+3945,Krowera,92.65
+3820,Warragul,92.67
+3714,Cathkin,92.68
+3448,Metcalfe,92.78
+3352,Scotsburn,92.83
+3660,Caveat,92.85
+3995,Kilcunda,92.85
+3447,Taradale,93.11
+3352,Mount Mercer,93.22
+3461,Eganstown,93.27
+3945,Jeetho,93.32
+3240,Gherang,93.49
+3352,Leigh Creek,93.9
+3988,Poowong East,94.06
+3352,Pootilla,94.07
+3364,Mount Prospect,94.15
+3992,Blackwood Forest,94.28
+3357,Buninyong,94.31
+3461,Mount Franklin,94.43
+3821,Buln Buln East,94.55
+3363,Dean,94.58
+3461,Elevated Plains,94.6
+3352,Clarkes Hill,94.61
+3230,Anglesea,94.76
+3451,Glenluce,94.96
+3714,Koriella,95.05
+3364,Blampied,95.07
+3820,Lillico,95.16
+3946,Bena,95.16
+3714,Alexandra,95.25
+3821,Tetoora Road,95.42
+3821,Ellinbank,95.48
+3712,Rubicon,95.52
+3460,Basalt,95.53
+3995,Archies Creek,95.62
+3352,Warrenheip,95.69
+3352,Gong Gong,95.94
+3712,Thornton,95.97
+3821,Nilma,96
+3979,Glen Alvie,96.19
+3444,Redesdale,96.31
+3821,Nilma North,96.32
+3988,Mountain View,96.33
+3448,Elphinstone,96.65
+3719,Yarck,96.65
+3352,Durham Lead,96.91
+3461,Franklinford,97
+3992,Ryanston,97.01
+3461,Shepherds Flat,97.05
+3352,Garibaldi,97.1
+3444,Mia Mia,97.16
+3992,Dalyston,97.35
+3995,Powlett River,97.35
+3833,Mt Baw Baw,97.4
+3820,Bona Vista,97.43
+3364,Newlyn North,97.47
+3660,Northwood,97.5
+3833,Vesper,97.51
+3364,Newlyn,97.66
+3350,Mount Helen,98.07
+3660,Dropmore,98.13
+3451,Irishtown,98.18
+3451,Fryerstown,98.22
+3241,Winchelsea,98.26
+3951,Ranceby,98.28
+3241,Wurdiboluc,98.33
+3350,Brown Hill,98.41
+3663,Mangalore,98.53
+3950,Whitelaw,98.74
+3352,Wattle Flat,98.78
+3350,Canadian,99.02
+3523,Argyle,99.03
+3352,Glen Park,99.08
+3451,Vaughan,99.17
+3833,Icy Creek,99.19
+3350,Ballarat East,99.28
+3822,Gainsborough,99.35
+3451,Tarilta,99.53
+3352,Grenville,99.57
+3666,Tarcombe,99.58
+3979,Korrine,99.7
+3350,Mount Clear,99.71
+3822,Darnum,99.73
+3350,Nerrina,99.91
+3950,Strzelecki,99.94
+3352,Invermay,99.96
+3329,Barunah Park,100.34
+3995,Hicksborough,100.36
+3241,Wensleydale,100.49
+3350,Eureka,100.5
+3821,Seaview,100.51
+3350,Sovereign Hill,100.73
+3350,Black Hill,100.81
+3825,Fumina,100.81
+3951,Moyarra,100.93
+3350,Golden Point,100.96
+3821,Ferndale,101.06
+3350,Bakery Hill,101.1
+3951,Jumbunna,101.12
+3833,Toorongo,101.15
+3951,Kongwak,101.15
+3352,Magpie,101.18
+3714,Fawcett,101.19
+3995,Lance Creek,101.22
+3350,Ballarat,101.29
+3364,Kooroocheang,101.35
+3950,Korumburra,101.4
+3364,Springmount,101.41
+3350,Ballarat West,101.42
+3321,Wingeel,101.43
+3352,Napoleons,101.5
+3352,Chapel Flat,101.59
+3350,Mount Pleasant,101.67
+3523,Heathcote,101.89
+3350,Ballarat Central,102
+3350,Soldiers Hill,102.02
+3822,Cloverlea,102.04
+3451,Chewton Bushlands,102.1
+3364,Kingston,102.11
+3995,South Dudley,102.12
+3356,Sebastopol,102.22
+3352,Cambrian Hill,102.25
+3350,Ballarat North,102.26
+3350,Invermay Park,102.53
+3992,West Creek,102.54
+3461,Yandoit,102.55
+3821,Shady Creek,102.61
+3451,Guildford,102.67
+3364,Smokeytown,102.71
+3951,Outtrim,102.76
+3350,Lake Wendouree,102.92
+3451,Golden Point,103
+3951,Arawata,103.02
+3350,Redan,103.03
+3451,Chewton,103.05
+3321,Hesse,103.15
+3995,North Wonthaggi,103.25
+3995,Wonthaggi,103.29
+3950,Korumburra South,103.32
+3523,Costerfield,103.37
+3356,Bonshaw,103.48
+3825,Fumina South,103.48
+3364,Allendale,103.54
+3189,Wishart,103.65
+3951,Kardella,103.85
+3953,Trida,103.87
+3995,St Clair,104.07
+3231,Aireys Inlet,104.13
+3363,Creswick,104.18
+3666,Ruffy,104.46
+3451,Yapeen,104.52
+3451,Faraday,104.71
+3355,Wendouree,104.77
+3364,Werona,104.79
+3352,Mount Rowan,104.83
+3451,Campbells Creek,104.85
+3461,Clydesdale,105.02
+3664,Avenel,105.04
+3713,Eildon,105.04
+3825,Hill End,105.14
+3461,Yandoit Hills,105.24
+3953,Wild Dog Valley,105.25
+3364,Broomfield,105.27
+3350,Alfredton,105.42
+3352,Enfield,105.42
+3356,Delacombe,105.43
+3355,Lake Gardens,105.46
+3241,Winchelsea South,105.5
+3823,Yarragon,105.52
+3450,Moonlight Flat,105.55
+3355,Wendouree Village,105.6
+3823,Allambee,105.67
+3719,Kanumbra,105.68
+3719,Gobur,105.77
+3364,Smeaton,105.88
+3995,Wattle Bank,106.07
+3950,Kardella South,106.2
+3231,Fairhaven,106.22
+3823,Yarragon South,106.36
+3448,Sutton Grange,106.37
+3995,Harmers Haven,106.71
+3450,Castlemaine,106.72
+3608,Mitchellstown,106.72
+3241,Ombersley,106.73
+3953,Mount Eccles,107.1
+3352,Sulky,107.14
+3350,Newington,107.15
+3352,Dereel,107.2
+3444,Myrtle Creek,107.26
+3451,Mckenzie Hill,107.31
+3352,Corindhap,107.35
+3951,Fairbank,107.43
+3364,Bald Hills,107.48
+3719,Terip Terip,107.49
+3231,Moggs Creek,107.5
+3523,Derrinal,107.6
+3351,Ross Creek,107.8
+3833,Tanjil Bren,108.26
+3444,Lyal,108.29
+3953,Ruby,108.33
+3723,Woods Point,108.37
+3871,Allambee Reserve,108.43
+3363,Creswick North,108.44
+3351,Smythes Creek,108.47
+3451,Barkers Creek,108.56
+3551,Kimbolton,108.57
+3241,Bambra,108.61
+3231,Eastern View,108.81
+3364,Lawrence,108.92
+3352,Miners Rest,109.17
+3461,Strangways,109.17
+3462,Sandon,109.17
+3607,Tabilk,109.54
+3825,Tanjil,109.63
+3462,Muckleford South,109.65
+3825,Willow Grove,109.75
+3352,Mitchell Park,109.79
+3355,Mitchell Park,109.79
+3453,Harcourt,110.14
+3462,Green Gully,110.14
+3824,Trafalgar East,110.83
+3551,Pilchers Bridge,110.93
+3953,Hallston,110.93
+3352,Bunkers Hill,110.98
+3953,Leongatha North,110.98
+3608,Graytown,111.13
+3451,Muckleford,111.28
+3364,Glendonnell,111.29
+3723,Matlock,111.56
+3953,Mount Eccles South,111.6
+3231,Big Hill,111.67
+3351,Staffordshire Reef,111.77
+3453,Harcourt North,111.85
+3235,Boonah,111.9
+3523,Ladys Pass,111.93
+3370,Ullina,111.96
+3462,Newstead,112.25
+3352,Cardigan,112.26
+3364,Cabbage Tree,112.34
+3824,Trafalgar,112.34
+3953,Leongatha South,112.44
+3995,Cape Paterson,112.5
+3351,Nintingbool,112.51
+3352,Blowhard,112.56
+3996,Inverloch,112.61
+3953,Leongatha,112.67
+3364,Ascot,112.68
+3351,Haddon,112.8
+3523,Moormbool West,112.82
+3352,Cardigan Village,112.85
+3364,Campbelltown,113.01
+3351,Berringa,113.15
+3713,Lake Eildon,113.2
+3833,Baw Baw,113.29
+3330,Rokewood,113.59
+3351,Rokewood Junction,113.59
+3824,Childers,113.74
+3723,Gaffneys Creek,113.79
+3666,Creightons Creek,113.96
+3715,Merton,114.06
+3523,Redcastle,114.29
+3363,Tourello,114.34
+3523,Knowsley,114.68
+3351,Smythesdale,114.72
+3715,Woodfield,114.74
+3235,Deans Marsh,114.83
+3871,Allambee South,115.03
+3551,Eppalock,115.14
+3666,Gooram,115.14
+3825,Westbury,115.23
+3351,Newtown,115.45
+3608,Nagambie,115.55
+3232,Lorne,115.71
+3824,Thorpdale South,115.81
+3835,Thorpdale,115.81
+3370,Glengower,115.88
+3451,Gower,116
+3825,Jericho,116.03
+3462,Welshmans Reef,116.12
+3665,Locksley,116.16
+3364,Strathlea,116.3
+3351,Illabarook,116.33
+3996,Pound Creek,116.37
+3251,Eurack,116.38
+3608,Wirrate,116.39
+3523,Mount Camel,116.4
+3953,Koorooman,116.43
+3251,Weering,116.44
+3953,Berrys Creek,116.56
+3235,Benwerrin,116.58
+3551,Mosquito Creek,116.61
+3723,Kevington,116.75
+3351,Scarsdale,116.81
+3351,Piggoreet,116.92
+3364,Coghills Creek,117.07
+3825,Tanjil South,117.14
+3242,Birregurra,117.39
+3723,Jamieson,117.56
+3453,Ravenswood South,117.78
+3551,Axe Creek,117.89
+3351,Springdallah,117.9
+3953,Nerrena,117.97
+3954,Koonwarra,118.05
+3351,Bo Peep,118.08
+3720,Bonnie Doon,118.11
+3463,Walmer,118.16
+3462,Joyces Creek,118.17
+3715,Ancona,118.41
+3243,Whoorel,118.53
+3322,Cressy,118.77
+3352,Learmonth,119.07
+3351,Hillcrest,119.24
+3370,Clunes,119.26
+3351,Cape Clear,119.3
+3723,Howes Creek,119.42
+3953,Boorool,119.42
+3665,Longwood,119.44
+3352,Werneth,119.54
+3723,Goughs Bay,119.71
+3551,Sedgwick,119.72
+3608,Kirwans Bridge,119.9
+3235,Pennyroyal,120.03
+3351,Happy Valley,120.04
+3463,Tarrengower,120.08
+3463,Perkins Reef,120.34
+3825,Moe,120.37
+3825,Moe South,120.46
+3723,Mountain Bay,120.58
+3825,Newborough East,120.72
+3352,Weatherboard,120.73
+3824,Narracan,120.84
+3824,Trafalgar South,120.84
+3463,Porcupine Flat,120.86
+3463,Maldon,120.92
+3243,Murroon,121
+3551,Emu Creek,121.18
+3825,Thalloo,121.25
+3370,Mount Cameron,121.35
+3551,Axedale,121.37
+3453,Ravenswood,121.55
+3825,Caringal,121.56
+3363,Glendaruel,121.6
+3352,Burrumbeet,121.73
+3551,Mandurang South,121.78
+3723,Maindample,122.26
+3351,Pitfield,122.32
+3243,Warncoort,122.56
+3825,Coalville,122.56
+3825,Newborough,122.56
+3465,Cotswold,122.59
+3956,Tarwin,122.61
+3871,Mirboo North,122.94
+3723,Macs Cove,122.99
+3465,Moolort,123.2
+3825,Aberfeldy,123.23
+3723,Howqua Inlet,123.58
+3608,Goulburn Weir,123.62
+3825,Thomson,123.81
+3956,Venus Bay,123.9
+3251,Beeac,123.91
+3352,Addington,123.92
+3351,Snake Valley,123.95
+3608,Bailieston,124.07
+3352,Mount Bolton,124.14
+3871,Baromi,124.19
+3825,Erica,124.27
+3871,Delburn,124.28
+3551,Toolleen,124.29
+3360,Linton,124.54
+3825,Moondarra,124.54
+3551,Strathfieldsaye,124.6
+3956,Meeniyan,124.61
+3551,Cornella,124.64
+3953,Mardan,124.67
+3323,Duverney,124.79
+3465,Rodborough,124.9
+3871,Darlimurla,124.93
+3665,Pranjip,125.05
+3723,Howqua,125.05
+3351,Carngham,125.26
+3463,Nuggetty,125.57
+3608,Wahring,125.67
+3551,Mandurang,125.88
+3956,Tarwin Lower,126.03
+3723,Piries,126.05
+3363,Mount Beckworth,126.07
+3825,Hernes Oak,126.09
+3825,Toombon,126.2
+3825,Amor,126.25
+3666,Kelvin View,126.29
+3666,Strathbogie,126.29
+3825,Rawson,126.39
+3249,Ondit,126.42
+3550,Diamond Hill,126.45
+3956,Dumbalk,126.58
+3352,Ercildoune,126.64
+3825,Jacob Creek,126.94
+3555,Big Hill,127.1
+3825,Yallourn,127.39
+3251,Cundare North,127.51
+3550,Spring Gully,127.54
+3352,Waubra,127.63
+3551,Junortoun,127.74
+3371,Dunach,127.85
+3825,Yallourn North,127.99
+3371,Mount Glasgow,128.41
+3870,Mirboo East,128.41
+3351,Wallinduc,128.45
+3249,Irrewarra,128.51
+3243,Barwon Downs,128.52
+3463,Baringhup,128.92
+3840,Driffield,129.06
+3249,Yeodene,129.12
+3666,Euroa,129.17
+3825,Coopers Creek,129.25
+3249,Warrion,129.47
+3465,Majorca,129.5
+3551,Lockwood South,129.57
+3557,Muskerry,129.62
+3723,Delatite,129.72
+3666,Kithbrook,129.85
+3956,Dumbalk North,129.92
+3722,Mansfield,130.08
+3555,Kangaroo Flat,130.12
+3612,Whroo,130.22
+3870,Boolarra,130.3
+3550,Flora Hill,130.37
+3463,Bradford,130.41
+3557,Muskerry East,130.41
+3351,Chepstowe,130.42
+3555,Lansell Plaza,130.5
+3550,Bendigo South,130.57
+3550,Kennington,130.57
+3550,Quarry Hill,130.57
+3666,Sheans Creek,130.57
+3871,Mirboo,130.6
+3723,Boorolite,130.63
+3557,Fosterville,130.71
+3825,Walhalla,130.72
+3555,Golden Gully,130.79
+3243,Gerangamete,130.85
+3221,Separation Creek,130.89
+3371,Stony Creek,130.99
+3221,Wye River,131.19
+3958,Buffalo Creek,131.32
+3555,Golden Square,131.44
+3550,Strathdale,131.52
+3869,Yinnar,131.55
+3249,Balintore,131.65
+3323,Berrybank,131.7
+3465,Craigie,131.74
+3551,Longlea,131.75
+3666,Molka,131.86
+3551,Lockwood,131.89
+3352,Brewster,132.16
+3551,Myola East,132.18
+3360,Mannibadar,132.23
+3840,Maryvale,132.33
+3550,East Bendigo,132.34
+3550,Bendigo,132.35
+3250,Colac East,132.36
+3360,Pittong,132.4
+3840,Hazelwood,132.48
+3360,Willowvale,132.74
+3840,Morwell Upper,132.97
+3555,Specimen Hill,132.99
+3371,Talbot,133.07
+3870,Boolarra South,133.07
+3249,Yeo,133.13
+3551,Myola,133.16
+3550,North Bendigo,133.3
+3958,Buffalo,133.36
+3550,West Bendigo,133.46
+3840,Morwell East,133.49
+3957,Stony Creek,133.56
+3324,Mount Bute,133.58
+3840,Morwell,133.63
+3352,Mount Mitchell,133.67
+3249,Dreeite,133.73
+3371,Evansford,133.73
+3465,Golden Point,133.76
+3825,Boola,133.76
+3840,Hazelwood South,133.82
+3352,Glenbrae,133.84
+3723,Barjarg,133.84
+3956,Mirboo South,133.99
+3550,White Hills,134.07
+3550,Long Gully,134.39
+3669,Creek Junction,134.49
+3550,Ironbark,134.54
+3463,Neereman,134.62
+3610,Murchison,134.71
+3249,Coragulac,134.74
+3250,Colac,134.82
+3323,Foxhow,134.83
+3236,Forrest,134.84
+3551,Ascot,135.05
+3465,Daisy Hill,135.06
+3465,Flagstaff,135.28
+3551,Epsom,135.39
+3221,Kennett River,135.44
+3557,Barnadown,135.47
+3610,Murchison East,135.48
+3250,Colac West,135.5
+3610,Moorilim,135.52
+3612,Wanalta,135.56
+3371,Caralulup,135.67
+3860,Nuntin,135.75
+3556,California Gully,135.84
+3840,Mid Valley,135.99
+3612,Moora,136.02
+3250,Elliminyt,136.08
+3551,Wellsford,136.11
+3723,Nillahcootie,136.14
+3669,Boho South,136.32
+3463,Shelbourne,136.46
+3463,Baringhup West,136.52
+3373,Mena Park,136.6
+3371,Amherst,136.66
+3612,Rushworth,136.68
+3960,Woorarra West,136.69
+3551,Maiden Gully,136.76
+3666,Balmattum,136.78
+3352,Langi Kal Kal,136.95
+3669,Marraweeney,137
+3559,Colbinabbin,137.02
+3464,Carisbrook,137.1
+3463,Eastville,137.37
+3361,Bradvale,137.38
+3723,Bridge Creek,137.42
+3556,Eaglehawk,137.49
+3844,Tyers,137.54
+3249,Dreeite South,137.57
+3254,Cororooke,137.6
+3959,Fish Creek,137.81
+3960,Turtons Creek,137.91
+3666,Miepoll,137.92
+3960,Foster North,137.98
+3723,Howqua Hills,138.12
+3221,Grey River,138.16
+3465,Maryborough,138.36
+3551,Bagshot,138.36
+3249,Barongarook,138.4
+3869,Yinnar South,138.61
+3556,Jackass Flat,138.64
+3373,Nerring,138.69
+3842,Churchill,138.69
+3373,Trawalla,138.71
+3631,Arcadia South,138.73
+3351,Mount Emu,138.82
+3558,Creek View,138.82
+3723,Merrijig,138.83
+3249,Alvie,138.84
+3463,Woodstock West,138.86
+3840,Jeeralang Junction,139.03
+3371,Burnbank,139.07
+3556,Sailors Gully,139.21
+3249,Corunnun,139.37
+3870,Budgeree,139.38
+3465,Simson,139.51
+3551,Huntly,139.54
+3557,Goornong,139.58
+3249,Barramunga,139.65
+3666,Riggs Creek,139.89
+3556,Eaglehawk North,139.95
+3960,Boolarong,140.06
+3858,Licola North,140.33
+3249,Barongarook West,140.68
+3465,Adelaide Lead,140.69
+3854,Glengarry West,140.83
+3515,Marong,140.92
+3556,Myers Flat,140.94
+3840,Hazelwood North,141.11
+3236,Mount Sabine,141.14
+3959,Hoddle,141.35
+3249,Wool Wool,141.58
+3221,Sugarloaf,141.68
+3352,Lexton,141.72
+3465,Havelock,141.8
+3361,Skipton,141.84
+3722,Barwite,141.93
+3610,Murchison North,142.05
+3249,Larpent,142.06
+3556,Whipstick,142.1
+3472,Eddington,142.12
+3673,Lima South,142.17
+3960,Foster,142.32
+3249,Kawarren,142.41
+3612,Waranga,142.46
+3666,Moglonemby,142.47
+3869,Jumbuk,142.83
+3669,Boho,143.09
+3960,Wonga,143.26
+3249,Nalangil,143.41
+3960,Gunyah,143.51
+3324,Lismore,143.58
+3515,Wilsons Hill,143.59
+3959,Waratah North,143.62
+3465,Moonlight Flat,143.64
+3844,Traralgon,143.7
+3551,Bagshot North,143.77
+3465,Alma,143.8
+3610,Dhurringile,144
+3373,Lake Goldsmith,144.02
+3371,Lillicur,144.26
+3221,Wongarra,144.3
+3249,Tanybryn,144.4
+3472,Betley,144.55
+3463,Laanecoorie,144.7
+3854,Glengarry,144.71
+3556,Woodvale,144.82
+3858,Glen Falloch,144.92
+3324,Mingay,144.97
+3959,Waratah Bay,145.01
+3962,Woorarra,145.39
+3465,Bowenvale,145.42
+3465,Timor,145.57
+3723,Sawmill Settlement,145.57
+3373,Waterloo,145.61
+3559,Runnymede,145.64
+3854,Glengarry North,145.68
+3631,Arcadia,145.74
+3260,Leslie Manor,145.85
+3472,Bet Bet,145.97
+3844,Traralgon East,146.11
+3373,Beaufort,146.13
+3960,Mount Best,146.16
+3233,Skenes Creek North,146.28
+3673,Swanpool,146.4
+3673,Lima East,146.46
+3559,Avonmore,146.47
+3551,Woodstock On Loddon,146.55
+3669,Tamleugh,146.65
+3669,Violet Town,146.72
+3249,Pirron Yallock,146.87
+3956,Walkerville,146.89
+3858,Licola,146.91
+3844,Traralgon South,146.92
+3962,Toora North,146.92
+3558,Corop West,146.99
+3465,Bung Bong,147.11
+3465,Timor West,147.13
+3249,Irrewillipe East,147.17
+3623,Stanhope South,147.22
+3840,Jeeralang,147.37
+3844,Koornalla,147.39
+3551,Huntly North,147.61
+3960,Bennison,147.75
+3962,Christies,147.79
+3516,Leichardt,147.84
+3239,Gellibrand,147.88
+3233,Petticoat Creek,148.02
+3722,Mirimbah,148.35
+3260,Pomborneit North,148.47
+3956,Walkerville South,148.55
+3964,Port Franklin,148.78
+3844,Loy Yang,148.89
+3858,Seaton,148.98
+3870,Grand Ridge,149.05
+3673,Lima,149.31
+3233,Skenes Creek,149.34
+3670,Warrenbayne,149.37
+3352,Lamplough,149.43
+3373,Chute,149.46
+3631,Karramomus,149.46
+3558,Burnewang,149.48
+3962,Wonyip,149.7
+3472,Bromley,149.71
