@@ -1,0 +1,308 @@
+Ranking,Suburb
+1,South Yarra
+2,East Melbourne
+3,Carlton
+4,Fitzroy North
+5,Hawthorn
+6,Footscray
+7,Travancore
+8,Carlton North 
+9,Kooyong
+10,Collingwood
+11,Kensington 
+12,Clifton Hill
+13,Southbank
+14,Richmond
+15,Burnley
+16,Gardenvale
+17,Windsor
+18,Fairfield
+19,Alphington
+20,Cremorne
+21,North Melbourne
+22,Fitzroy
+23,Moonee Ponds
+24,Abbotsford
+25,South Melbourne
+26,St Kilda
+27,Armadale
+28,Melbourne
+29,Parkville
+30,Sandringham
+31,Flemington
+32,Ashburton
+33,Aberfeldie
+34,Ivanhoe
+35,Kew
+36,Balaclava
+37,Hawthorn East 
+38,Ascot Vale
+39,Elsternwick
+40,Northcote
+41,St Kilda West 
+42,Brunswick
+43,Blackburn
+44,Brunswick East
+45,Ivanhoe East
+46,Seddon
+47,Toorak 
+48,Camberwell 
+49,Kew East 
+50,Glen Iris
+51,Canterbury
+52,Docklands
+53,Heidelberg
+54,Surrey Hills
+55,Albert Park 
+56,Deepdene
+57,Box Hill South
+58,Yarraville
+59,Black Rock 
+60,Brunswick West
+61,Box Hill 
+62,Prahran
+63,Maribyrnong
+64,Williamstown
+65,Cheltenham
+66,Ormond
+67,Brighton
+68,Balwyn North
+69,Ripponlea
+70,Malvern 
+71,Malvern East
+72,Essendon
+73,Tecoma
+74,Caulfield North
+75,Nunawading 
+76,Middle Park 
+77,Montmorency
+78,Coburg 
+79,Hampton 
+80,Beaumaris
+81,Balwyn 
+82,Elwood
+83,Port Melbourne
+84,Thornbury
+85,Mount Waverley
+86,Eltham
+87,Spotswood
+88,McKinnon
+89,Mont Albert 
+90,Glen Huntly 
+91,Belgrave 
+92,Eaglemont
+93,Carnegie
+94,Princes Hill
+95,Bentleigh
+96,Oakleigh
+97,Forest Hill 
+98,St Kilda East 
+99,Rosanna
+100,Doncaster
+101,Greensborough
+102,Preston 
+103,Aspendale
+104,Frankston 
+105,Upper Ferntree Gully
+106,Brighton East
+107,Essendon North
+108,Parkdale
+109,Ashwood 
+110,Caulfield
+111,Altona
+112,Highett 
+113,Glen Waverley 
+114,Sunshine 
+115,Caulfield East
+116,Upwey
+117,Oakleigh South
+118,Newport
+119,Watsonia
+120,West Melbourne
+121,Hughesdale
+122,Clayton
+123,Coburg North
+124,Essendon West 
+125,Ringwood
+126,Burwood
+127,Caulfield South
+128,Mentone
+129,Moorabbin 
+130,Bentleigh East
+131,Belgrave Heights
+132,Croydon
+133,Bulleen
+134,Murrumbeena 
+135,Bundoora
+136,Mordialloc
+137,Templestowe Lower
+138,Burwood East 
+139,Kingsville
+140,Airport West 
+141,Mitcham 
+142,Pascoe Vale South
+143,Dandenong
+144,Niddrie 
+145,Oak Park
+146,Box Hill North 
+147,Vermont South
+148,Kingsbury
+149,Strathmore
+150,Macleod
+151,Seaholme
+152,Vermont
+153,West Footscray
+154,Reservoir 
+155,Wheelers Hill
+156,Warrandyte
+157,Heathmont
+158,Chadstone 
+159,Gladstone Park
+160,Doncaster East
+161,Blackburn North 
+162,Mont Albert North
+163,Boronia
+164,Braybrook 
+165,Ringwood East
+166,Avondale Heights
+167,Briar Hill
+168,Strathmore Heights
+169,Thomastown
+170,Chelsea
+171,Westmeadows
+172,Maidstone
+173,Heatherton
+174,Heidelberg West
+175,Blackburn South 
+176,Huntingdale
+177,Bayswater 
+178,Springvale
+179,Wantirna South
+180,Albion
+181,Pascoe Vale 
+182,Hampton East
+183,Ringwood North
+184,Glenroy
+185,Oakleigh East
+186,Wantirna
+187,Carrum
+188,Williamstown North
+189,Berwick
+190,Eltham North
+191,Broadmeadows
+192,Bellfield
+193,Jacana
+194,Edithvale
+195,Seaford 
+196,Yallambie 
+197,St Helena
+198,South Kingsville
+199,Ferntree Gully
+200,Heidelberg Heights
+201,Campbellfield
+202,Templestowe
+203,Keilor East
+204,Narre Warren
+205,Lower Plenty
+206,Keilor Downs
+207,Bonbeach
+208,Notting Hill
+209,Noble Park 
+210,Altona North 
+211,Chelsea Heights
+212,Clayton South
+213,Fawkner
+214,Watsonia North
+215,Cranbourne
+216,Mill Park
+217,Tullamarine
+218,Hoppers Crossing
+219,Lalor
+220,Viewbank
+221,Mount Evelyn 
+222,Mulgrave
+223,Keilor Park
+224,Research
+225,Noble Park North
+226,Springvale South
+227,Sunshine North
+228,Knoxfield
+229,Hurstbridge 
+230,Lilydale
+231,Croydon North 
+232,Patterson Lakes 
+233,Dingley Village
+234,Park Orchards
+235,Rowville
+236,Keilor
+237,Eumemmerring
+238,Point Cook
+239,Gowanbrae
+240,Altona Meadows 
+241,Mooroolbark
+242,Diamond Creek
+243,Donvale
+244,Clarinda
+245,Scoresby
+246,Werribee
+247,Sunshine West
+248,Kealba
+249,Hallam 
+250,St Albans
+251,Croydon South 
+252,Frankston North
+253,Kilsyth South
+254,Laverton 
+255,Doveton
+256,Langwarrin
+257,Endeavour Hills
+258,North Warrandyte
+259,The Basin
+260,Aspendale Gardens
+261,Dandenong North
+262,Dallas
+263,Taylors Lakes
+264,Croydon Hills
+265,Montrose
+266,Deer Park
+267,Warranwood 
+268,Ardeer
+269,Brooklyn
+270,Coolaroo
+271,Caroline Springs
+272,Cairnlea
+273,Frankston South 
+274,Hadfield
+275,Seabrook 
+276,South Morang
+277,Hampton Park
+278,Keysborough
+279,Epping
+280,Bayswater North
+281,Derrimut
+282,Carrum Downs 
+283,Meadow Heights
+284,Kilsyth
+285,Kings Park
+286,Attwood
+287,Lynbrook
+288,Cranbourne East 
+289,Sydenham
+290,Burnside
+291,Sandhurst
+292,Burnside Heights
+293,Albanvale 
+294,Roxburgh Park
+295,Lysterfield South
+296,Junction Village
+297,Williams Landing
+298,Keilor Lodge
+299,Delahey 
+300,Narre Warren South
+301,Waterways
+302,Cranbourne North
+303,Narre Warren North
+304,Langwarrin South 
+305,Taylors Hill
+306,Hillside
+307,Lyndhurst 
