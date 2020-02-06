@@ -1,0 +1,421 @@
+id,score,category,categoryID,name,address,postalcode,city,latitude,longitude,venue_name,venue_latitude,venue_longitude,
+0,4b1104e7f964a520817723e3,7.6,Dessert Shops,4bf58dd8d48988d1d0941735,Max Brenner Chocolate Bar,Shop 25-27 Red Cape Ln,3000,Melbourne,-37.810692,144.965691,Boilermaker House,-37.81132,144.966155
+1,548e129b498e3012587f3e5c,9.3,Coffee Shops,4bf58dd8d48988d1e0931735,Little Rogue Coffee,20 Drewery Ln,3000,Melbourne,-37.810911,144.964027,Boilermaker House,-37.81132,144.966155
+2,4b0e7e43f964a520015823e3,7.9,Greek Restaurants,4bf58dd8d48988d10e941735,Stalactites,183 Lonsdale St,3000,Melbourne,-37.81087,144.967065,Boilermaker House,-37.81132,144.966155
+3,4fbdbc78e4b0e542befde5b0,7.1,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,205 Swanston St.,3000,Melbourne,-37.811288,144.964576,Boilermaker House,-37.81132,144.966155
+4,5354692f498e614ef2fa84c2,7.9,Food Courts,4bf58dd8d48988d120951735,Emporium Café Court,"Level 3, Emporium Melbourne, 287 Lonsdale St",3000,Melbourne,-37.811925,144.963785,Boilermaker House,-37.81132,144.966155
+5,4ea6649777c831bd19353fea,6.4,Bars,4bf58dd8d48988d116941735,Asian Beer Cafe,Level 3 Melbourne Central,3000,Melbourne,-37.809887,144.964013,Boilermaker House,-37.81132,144.966155
+6,4cfa3cb6a6c76a3192119e5f,7.7,Cafés,4bf58dd8d48988d16d941735,Chocolateria San Churro,"Shop 255 QV Centre, Swanston St",3000,Melbourne,-37.810482,144.964394,Boilermaker House,-37.81132,144.966155
+7,535f0e49498e02d827e232fa,8.2,Coffee Shops,4bf58dd8d48988d1e0931735,Nespresso Boutique,"Store 30, Ground Floor, 287 Lonsdale Street",3000,Melbourne,-37.812153,144.96373,Boilermaker House,-37.81132,144.966155
+8,4b058747f964a520a58822e3,8.3,Bars,4bf58dd8d48988d116941735,Cookie,1/252 Swanston St,3000,Melbourne,-37.812078,144.964929,Boilermaker House,-37.81132,144.966155
+9,4b337a62f964a520c51925e3,5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,275 Swanston St,3000,Melbourne,-37.8116,144.964554,Boilermaker House,-37.81132,144.966155
+10,56ab443f498e45f9a87c3627,8.2,Ramen Restaurants,55a59bace4b013909087cb24,Shujinko,225 Russell St,3000,Melbourne,-37.811213,144.967384,Boilermaker House,-37.81132,144.966155
+11,4c072bd30e0a2d7fb90ced0c,6.3,Dessert Shops,4bf58dd8d48988d1d0941735,The Pancake Parlour,211 La Trobe St,3000,Melbourne,-37.810284,144.963128,Boilermaker House,-37.81132,144.966155
+12,4b1b4929f964a5208dfa23e3,7.3,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 5, 235 Bourke St.",3000,Melbourne,-37.813392,144.966234,Boilermaker House,-37.81132,144.966155
+13,4ba7f1e4f964a520cac039e3,7.5,Food Courts,4bf58dd8d48988d120951735,David Jones Food Hall,David Jones,3000,Melbourne,-37.81384,144.964586,Boilermaker House,-37.81132,144.966155
+14,4bdd1144645e0f47f2cb6a19,5.6,Food Courts,4bf58dd8d48988d120951735,The Dining Hall,Melbourne Central Shopping Centre,3000,Melbourne,-37.810317,144.963056,Boilermaker House,-37.81132,144.966155
+15,4b0a0d74f964a5205b2123e3,5.7,Shopping Malls,4bf58dd8d48988d1fd941735,Galleria,385 Bourke St,3000,Melbourne,-37.815089,144.963063,Boilermaker House,-37.81132,144.966155
+16,53eb306c498eb4d043834807,8.1,Ramen Restaurants,55a59bace4b013909087cb24,Hakata Gensuke,168 Russell St,3000,Melbourne,-37.812271,144.967908,Boilermaker House,-37.81132,144.966155
+17,557faa14498e003d0f96b102,7.5,Dumpling Restaurants,4bf58dd8d48988d108941735,Din Tai Fung ???,"Level 4, Emporium Melbourne, 287 Lonsdale Street",3000,Melbourne CBD,-37.812414,144.964077,Boilermaker House,-37.81132,144.966155
+18,5b2df66ff79faa002c8732b6,8,Cafés,4bf58dd8d48988d16d941735,Rustica,Melbourne Central Level 2,3000,Melbourne,-37.811528,144.963492,Boilermaker House,-37.81132,144.966155
+19,58e6d8f22bc5e25a8a95734c,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 151, 221 La Trobe St",3000,Melbourne,-37.809834,144.963763,Boilermaker House,-37.81132,144.966155
+20,56e675f2498ed140e11c4a72,7.3,Dim Sum Restaurants,4bf58dd8d48988d1f5931735,Tim Ho Wan,206 Bourke St,3000,Melbourne,-37.813025,144.967086,Boilermaker House,-37.81132,144.966155
+21,584b7c980802cb76416337de,7.9,Burger Joints,4bf58dd8d48988d16c941735,Betty's Burgers,97 Elizabeth St,3000,Melbourne,-37.81593,144.963798,Boilermaker House,-37.81132,144.966155
+22,5acdd1679d6a195ad563ff3a,9.2,Ice Cream Shops,4bf58dd8d48988d1c9941735,Pidapipó Gelateria,8 Degraves St,3000,Melbourne,-37.817715,144.965997,Boilermaker House,-37.81132,144.966155
+23,5153695ce4b02965ee259940,9,Coffee Shops,4bf58dd8d48988d1e0931735,Dukes Coffee Roasters,247 Flinders Ln.,3000,Melbourne,-37.816763,144.966064,Boilermaker House,-37.81132,144.966155
+24,58a7f2e65cab2f6649255137,8.8,Japanese Restaurants,4bf58dd8d48988d111941735,Calia,287 Lonsdale street,3000,Melbourne,-37.812724,144.96393,Boilermaker House,-37.81132,144.966155
+25,59cdb84bf62f2b7597d3b9f4,8.4,Thai Restaurants,4bf58dd8d48988d149941735,Dodee Paidang Thai Street Food Bar And Cafe,353 Little Collins St,3000,Melbourne,-37.815654,144.963264,Boilermaker House,-37.81132,144.966155
+26,4b10a369f964a520297423e3,7.2,Coffee Shops,4bf58dd8d48988d1e0931735,Sensory Lab,297 Little Collins St.,3000,Melbourne,-37.814806,144.965098,Boilermaker House,-37.81132,144.966155
+27,4b058747f964a520718822e3,8.7,Dessert Shops,4bf58dd8d48988d1d0941735,Koko Black,Shop 4 Royal Arcade,3000,Melbourne,-37.814485,144.964033,Boilermaker House,-37.81132,144.966155
+28,5853805176f2ca378f9afb07,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,385 Bourke St,3000,Melbourne,-37.814721,144.963272,Boilermaker House,-37.81132,144.966155
+29,4b058748f964a520cf8822e3,9,Coffee Shops,4bf58dd8d48988d1e0931735,Brother Baba Budan,359 Little Bourke St,3000,Melbourne,-37.813445,144.962137,Boilermaker House,-37.81132,144.966155
+30,5a15f5fde4c4594c8eb555ab,6.9,Coffee Shops,4bf58dd8d48988d1e0931735,Industry Beans,345 Little Collins Street,3000,Melbourne,-37.815315,144.963249,Boilermaker House,-37.81132,144.966155
+31,5368ad36498eb3c4cc6e52a8,8.8,Asian Restaurants,4bf58dd8d48988d142941735,Supernormal,180 Flinders Ln,3000,Melbourne,-37.816003,144.968388,Boilermaker House,-37.81132,144.966155
+32,4b05874ef964a520ac8a22e3,8.7,Spanish Restaurants,4bf58dd8d48988d150941735,MoVida,1 Hosier Ln,3000,Melbourne,-37.816619,144.969161,Boilermaker House,-37.81132,144.966155
+33,55e6828a498eb23090956e29,9.2,Cafés,4bf58dd8d48988d16d941735,Brick Lane,33 Guildford Ln,3000,Melbourne CBD,-37.811341,144.959816,Boilermaker House,-37.81132,144.966155
+34,550a26f6498e6e51068eb03d,8.3,Cafés,4bf58dd8d48988d16d941735,Oli & Levi,"Shop B17, 385 Bourke St",3000,Melbourne,-37.814498,144.962681,Boilermaker House,-37.81132,144.966155
+35,4b058747f964a520a68822e3,7.9,Cafés,4bf58dd8d48988d16d941735,Pellegrini's,66 Bourke St.,3000,Melbourne,-37.811838,144.971253,Boilermaker House,-37.81132,144.966155
+36,50a6120be4b0b3c0aafc8de1,8.1,Gastropubs,4bf58dd8d48988d155941735,Captain Melville,34 Franklin St,3000,Melbourne,-37.807792,144.961638,Boilermaker House,-37.81132,144.966155
+37,4b09e3b5f964a520431f23e3,8.6,Tea Rooms,4bf58dd8d48988d1dc931735,Hopetoun Tea Rooms,"Block Arcade, 282 Collins St",3000,Melbourne,-37.815896,144.964634,Boilermaker House,-37.81132,144.966155
+38,5a12162d6a59504af6ee14eb,8,Cafés,4bf58dd8d48988d16d941735,Brunetti,250 Flinders Lane,3000,Melbourne,-37.81675,144.965858,Boilermaker House,-37.81132,144.966155
+39,4b7a0b3af964a5206a202fe3,5.7,Food Courts,4bf58dd8d48988d120951735,Melbourne Central Food Court,"LG Level, Melbourne Central",3000,Melbourne,-37.810319,144.962996,Boilermaker House,-37.81132,144.966155
+40,59e7ca0f60255e613bbb7d8e,7.4,Coffee Shops,4bf58dd8d48988d1e0931735,Tulip Coffee,7a Degraves St,3000,Melbourne,-37.817706,144.965937,Boilermaker House,-37.81132,144.966155
+41,4cc11204d363721ef20d58c9,7.6,Cafés,4bf58dd8d48988d16d941735,Brunetti,Level 3 Myer,3000,Melbourne,-37.813286,144.963748,Boilermaker House,-37.81132,144.966155
+42,5bb292bcf05ca8002df4184f,8.8,Bakeries,4bf58dd8d48988d16a941735,Lune Croissanterie,Shop 16/161 Collins St.,3000,Melbourne,-37.815514,144.969415,Boilermaker House,-37.81132,144.966155
+43,4f580d7de4b0b8ced71f4d35,6.9,Sandwich Places,4bf58dd8d48988d1c5941735,Schnitz,203 Elizabeth St.,3000,Melbourne,-37.813613,144.962877,Boilermaker House,-37.81132,144.966155
+44,50429fa7e4b00a5804c4e20e,7.3,Malay Restaurants,4bf58dd8d48988d156941735,Mamak,366 Lonsdale St,3000,Melbourne,-37.812426,144.96159,Boilermaker House,-37.81132,144.966155
+45,4c3e8d240596c9287b8a8478,5.8,Tea Rooms,4bf58dd8d48988d1dc931735,The Terrace Tea Rooms,Royal Botanical Gardens,3141,South Yarra,-37.829306,144.982692,Royal Botanic Gardens,-37.830938,144.979877
+46,548a4281498e7fcddf217eca,8.7,French Restaurants,4bf58dd8d48988d10c941735,Entrecôte,131-133 Domain Rd,3141,South Yarra,-37.833887,144.980552,Royal Botanic Gardens,-37.830938,144.979877
+47,4b4c4235f964a52031b026e3,7.7,Thai Restaurants,4bf58dd8d48988d149941735,The Golden Triangle Restaurant,123 Park St.,3141,South Yarra,-37.834093,144.982288,Royal Botanic Gardens,-37.830938,144.979877
+48,52e456d9498e566c66ff7ad9,5.5,Cafés,4bf58dd8d48988d16d941735,domain brasserie,"181 Domain Rd, South Yarra",3141,Melbourne,-37.834048,144.982148,Royal Botanic Gardens,-37.830938,144.979877
+49,5b1258256eda020039fb1292,7.3,Australian Restaurants,4bf58dd8d48988d169941735,Matilda,159 Domain Road,3141,Melbourne,-37.834154,144.981474,Royal Botanic Gardens,-37.830938,144.979877
+50,4b356ce8f964a5200c2d25e3,6.6,Australian Restaurants,4bf58dd8d48988d169941735,Dish,"Royce Hotel, 379 St Kilda Road",3003,Melbourne,-37.83508,144.97535,Royal Botanic Gardens,-37.830938,144.979877
+51,4b05874ef964a520928a22e3,6.8,Seafood Restaurants,4bf58dd8d48988d1ce941735,Bacash,175 Domain Rd.,3141,Melbourne,-37.834196,144.98197,Royal Botanic Gardens,-37.830938,144.979877
+52,4ce9b4af595cb1f7ba32d014,7,Australian Restaurants,4bf58dd8d48988d169941735,The Botanical,163 Domain Rd.,3141,Melbourne,-37.834042,144.981746,Royal Botanic Gardens,-37.830938,144.979877
+53,4b37ec29f964a520b54825e3,5.6,Cafés,4bf58dd8d48988d16d941735,181 Domain Cafe Bar,181 Domain Rd,3141,South Yarra,-37.834059,144.982165,Royal Botanic Gardens,-37.830938,144.979877
+54,523149d004930aab6b18701b,8.5,Japanese Restaurants,4bf58dd8d48988d111941735,Ichi Ichi Ku Izakaya,119 Park St,3141,Melbourne,-37.834413,144.982481,Royal Botanic Gardens,-37.830938,144.979877
+55,53e34b0d498e2cf5743579d8,7.7,Fried Chicken Joints,4d4ae6fc7a7b7dea34424761,Belle's Hot Chicken,150 Gertrude St,3065,Fitzroy,-37.805995,144.979601,The Everleigh,-37.806079,144.979463
+56,56354b95498efa5fcbf63d0f,8.5,Wine Bars,4bf58dd8d48988d123941735,Marion,53 Gertrude St,3065,Fitzroy,-37.805573,144.975816,The Everleigh,-37.806079,144.979463
+57,551f23d0498e282ec09b03eb,8.8,Cafés,4bf58dd8d48988d16d941735,Archie's All Day,189 Gertrude St,3065,Fitzroy,-37.806043,144.980926,The Everleigh,-37.806079,144.979463
+58,4b0795fef964a520d7fe22e3,8.4,Taco Places,4bf58dd8d48988d151941735,Trippy Taco,234 Gertrude St,3066,Melbourne,-37.806343,144.982368,The Everleigh,-37.806079,144.979463
+59,4f482a15e4b08f45dc8aae5c,8.6,Food Trucks,4bf58dd8d48988d1cb941735,Grub Food Van,87-89 Moor St.,3065,Fitzroy,-37.839393,144.998392,The Everleigh,-37.806079,144.979463
+60,57e4e621498e1bd79290e00a,7.1,Taco Places,4bf58dd8d48988d151941735,Hotel Jesus,174 Smith St,3066,Melbourne,-37.803383,144.983527,The Everleigh,-37.806079,144.979463
+61,4b144253f964a5201aa023e3,4.8,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,Victoria Pde.,3066,Collingwood,-37.808663,144.982753,The Everleigh,-37.806079,144.979463
+62,57345665498eb366ca360e21,9.1,Japanese Restaurants,4bf58dd8d48988d111941735,Neko Neko,83A Smith St,3065,Fitzroy,-37.806306,144.982769,The Everleigh,-37.806079,144.979463
+63,5456a199498eada7cea47cef,7.9,Cafés,4bf58dd8d48988d16d941735,Major Major,5 Smith St,3066,Collingwood,-37.808327,144.982636,The Everleigh,-37.806079,144.979463
+64,4b05f366f964a5206be622e3,8.9,Bakeries,4bf58dd8d48988d16a941735,N. Lee Bakery,220 Smith St,3066,Collingwood,-37.802466,144.983602,The Everleigh,-37.806079,144.979463
+65,4b0b80fcf964a520f33123e3,8.2,Australian Restaurants,4bf58dd8d48988d169941735,Cutler & Co.,55-57 Gertrude St,3065,Fitzroy,-37.805602,144.975972,The Everleigh,-37.806079,144.979463
+66,583ed1044f417a56aef6a490,8,Soba Restaurants,55a59bace4b013909087cb27,Shimbashi Soba & Sake Bar,131 Smith St,3065,Fitzroy,-37.80496,144.98303,The Everleigh,-37.806079,144.979463
+67,564c3e65498edac5a01e8682,8.4,Wine Bars,4bf58dd8d48988d123941735,Smithward,48 Smith St,3066,Melbourne,-37.806941,144.982936,The Everleigh,-37.806079,144.979463
+68,4b120167f964a5201a8823e3,7.7,Cafés,4bf58dd8d48988d16d941735,Two Birds Cafe,31 Peel Street,3066,Collingwood,-37.805198,144.985484,The Everleigh,-37.806079,144.979463
+69,5c58e071c36588002c1659c7,8.1,Sake Bars,4bf58dd8d48988d11c941735,Tamura Sake Bar,48 Gertrude Street,3065,Fitzroy,-37.805496,144.975651,The Everleigh,-37.806079,144.979463
+70,53dc2f8b498e7c8d0427d010,8.2,Cafés,4bf58dd8d48988d16d941735,Newtown Specialty Coffee,180 Brunswick Street,3065,Melbourne,-37.80211,144.97803,The Everleigh,-37.806079,144.979463
+71,58e74aaf6431e55859864e36,8.2,Japanese Restaurants,4bf58dd8d48988d111941735,Papirica,22 Smith St,3066,Melbourne,-37.807113,144.982993,The Everleigh,-37.806079,144.979463
+72,4ef1a1972c5b44d26139445c,7.5,Burger Joints,4bf58dd8d48988d16c941735,Huxtaburger,106 Smith St.,3066,Melbourne,-37.805283,144.983176,The Everleigh,-37.806079,144.979463
+73,4b0d2625f964a5201d4423e3,8.5,Gastropubs,4bf58dd8d48988d155941735,The Napier Hotel,210 Napier St,3065,Melbourne,-37.801719,144.980216,The Everleigh,-37.806079,144.979463
+74,4f88c702e4b047d8498963e9,9.1,Cafés,4bf58dd8d48988d16d941735,South of Johnston,46 Oxford St,3066,Collingwood,-37.805988,144.984556,The Everleigh,-37.806079,144.979463
+75,576485a5498ea13a75ef19c2,7.1,Bakeries,4bf58dd8d48988d16a941735,Gontran Cherrier,140 Smith Street,3066,Collingwood,-37.804606,144.983329,The Everleigh,-37.806079,144.979463
+76,5614643b498efc8811251be8,8.6,Japanese Restaurants,4bf58dd8d48988d111941735,Ichi Ni Nana Izakaya,2&3/127 Brunswick St,3065,Fitzroy,-37.803757,144.977165,The Everleigh,-37.806079,144.979463
+77,4b0f3af9f964a520a16023e3,8,Pubs,4bf58dd8d48988d11b941735,Union Club Hotel,164 Gore St.,3065,Fitzroy,-37.803949,144.98235,The Everleigh,-37.806079,144.979463
+78,4ba5a240f964a5203f1839e3,8.5,Pubs,4bf58dd8d48988d11b941735,Rainbow Hotel,27 St David St,3065,Melbourne,-37.800628,144.979333,The Everleigh,-37.806079,144.979463
+79,4db234fd6a230187f5f5d7ff,6.2,Cafés,4bf58dd8d48988d16d941735,Museum Cafe,11 Nicholson St.,3053,Carlton,-37.803961,144.972215,The Everleigh,-37.806079,144.979463
+80,4b07b521f964a5208dff22e3,7.3,Pubs,4bf58dd8d48988d11b941735,The Grace Darling Hotel,114 Smith St.,3066,Collingwood,-37.804852,144.983312,The Everleigh,-37.806079,144.979463
+81,4b058745f964a520138822e3,8.5,Bars,4bf58dd8d48988d116941735,The Builders Arms Hotel,211 Gertrude St,3065,Fitzroy,-37.806184,144.981581,The Everleigh,-37.806079,144.979463
+82,52a180b611d2694445fa6488,8.4,Bars,4bf58dd8d48988d116941735,The Catfish,30 Gertrude St,3065,Fitzroy,-37.805558,144.97523,The Everleigh,-37.806079,144.979463
+83,531072d8498e0a8b55243152,8.9,Pizza Places,4bf58dd8d48988d1ca941735,Lazerpig,9-11 Peel St,3066,Collingwood,-37.805105,144.984132,The Everleigh,-37.806079,144.979463
+84,4df2f469a809141629a10881,8.6,Cafés,4bf58dd8d48988d16d941735,Slowpoke,157 Brunswick St,3065,Fitzroy,-37.802844,144.977725,The Everleigh,-37.806079,144.979463
+85,4bbf0166ba9776b0566cfec8,7.8,Malay Restaurants,4bf58dd8d48988d156941735,Blue Chillies,182 Brunswick St,3065,Melbourne,-37.802033,144.977881,The Everleigh,-37.806079,144.979463
+86,4b14f0cbf964a52076a723e3,7.8,Cocktail Bars,4bf58dd8d48988d11e941735,Panama Dining Room And Bar,231 Smith St,3065,Fitzroy,-37.802085,144.983646,The Everleigh,-37.806079,144.979463
+87,4b0de104f964a520f25123e3,8.1,Japanese Restaurants,4bf58dd8d48988d111941735,Wabi Sabi Salon,94 Smith St,3066,Collingwood,-37.805511,144.983127,The Everleigh,-37.806079,144.979463
+88,4b07c5d8f964a520edff22e3,8.4,Pizza Places,4bf58dd8d48988d1ca941735,Ladro,224 Gertrude St,3065,Fitzroy,-37.806288,144.982159,The Everleigh,-37.806079,144.979463
+89,532c0d7d498e0adb74fea101,8.4,Vegetarian / Vegan Restaurants,4bf58dd8d48988d1d3941735,Smith & Daughters,175 Brunswick St,3065,Fitzroy,-37.802277,144.977763,The Everleigh,-37.806079,144.979463
+90,52ef60fa498e7d0e5c27a123,8.7,Grocery Stores,4bf58dd8d48988d118951735,Broad Bean Organic Grocer,"Shop 3, 26 Fanning St",3006,Southbank,-37.822588,144.966912,National Gallery of Victoria,-37.822483,144.969304
+91,4b2ec8eaf964a520a1e624e3,7.8,Bars,4bf58dd8d48988d116941735,Belgian Beer Cafe Melbourne,5 Riverside Quay,3006,Southbank,-37.821484,144.964225,National Gallery of Victoria,-37.822483,144.969304
+92,4b205240f964a520913024e3,5.9,Australian Restaurants,4bf58dd8d48988d169941735,Bear Brass,"Southgate Precinct, 3 Southgate Ave",3006,Southbank,-37.819814,144.965957,National Gallery of Victoria,-37.822483,144.969304
+93,4ec23dc49adfe2b7b73b02a8,8.4,Seafood Restaurants,4bf58dd8d48988d1ce941735,Waterfront Seafood-Bar-Grill,"Ground Floor, Shop 20/3",3006,Southbank,-37.820029,144.965557,National Gallery of Victoria,-37.822483,144.969304
+94,52848ec511d2e94c87e3c206,8,Italian Restaurants,4bf58dd8d48988d110941735,Fatto Bar & Cantina,"River Terrace, Arts Centre Melbourne",3004,Melbourne,-37.819709,144.967785,National Gallery of Victoria,-37.822483,144.969304
+95,4b05eec5f964a52017e622e3,7.7,Steakhouses,4bf58dd8d48988d1cc941735,The Meat & Wine Co,3 Queens Bridge St.,3006,Southbank,-37.821298,144.961673,National Gallery of Victoria,-37.822483,144.969304
+96,4ca4f1818a65bfb75f462b22,6.2,Donut Shops,4bf58dd8d48988d148941735,Spanish Doughnuts,"Shop 2, Flinders Street Station, Cnr Flinders ...",3000,Melbourne,-37.81813,144.96743,National Gallery of Victoria,-37.822483,144.969304
+97,4b6e42cef964a520d9b42ce3,5.5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,3 Freshwater Pl,3006,Southbank,-37.821128,144.962017,National Gallery of Victoria,-37.822483,144.969304
+98,4b11d062f964a520398523e3,7.5,Donut Shops,4bf58dd8d48988d148941735,Walker's Doughnuts,2/26 Elizabeth St,3000,Melbourne,-37.818019,144.96506,National Gallery of Victoria,-37.822483,144.969304
+99,5036122fe4b0853eeba6e6ec,7.7,Japanese Restaurants,4bf58dd8d48988d111941735,Saké Restaurant and Bar,100 St Kilda Rd,3000,Melbourne,-37.819594,144.967724,National Gallery of Victoria,-37.822483,144.969304
+100,4cfc687592386a31ac9691c9,6.8,Restaurants,4bf58dd8d48988d1c4941735,Ludlow Bar & Dining Room,"Building 3, 6 Riverside Quay",3006,Southbank,-37.820525,144.964032,National Gallery of Victoria,-37.822483,144.969304
+101,577f203ccd100392a4377ee4,8,Ice Cream Shops,4bf58dd8d48988d1c9941735,Ben & Jerry's Ice Cream,Flinders Lane,3000,Melbourne,-37.816535,144.96676,National Gallery of Victoria,-37.822483,144.969304
+102,4f34c35de4b0d2349da78ad6,6.4,Fast Food Restaurants,4bf58dd8d48988d16e941735,Lord Of The Fries,"Flinders Street Station Concourse, 207-361 Fli...",3000,Melbourne,-37.81814,144.967544,National Gallery of Victoria,-37.822483,144.969304
+103,51c0de5b498e3becda4ab395,6,Cafés,4bf58dd8d48988d16d941735,Saporito Cafe,Kavanagh St,3006,Southbank,-37.823075,144.966494,National Gallery of Victoria,-37.822483,144.969304
+104,4bd26f23462cb7130c7ddc07,7.6,Hotel Bars,4bf58dd8d48988d1d5941735,Aria Bar & Lounge,1 Southgate Ave.,3006,Melbourne,-37.820443,144.965498,National Gallery of Victoria,-37.822483,144.969304
+105,4e7acfa445dd96f1c36a2482,6.7,Cocktail Bars,4bf58dd8d48988d11e941735,Leftbank,Southbank,3006,Melbourne,-37.820872,144.962491,National Gallery of Victoria,-37.822483,144.969304
+106,5b811fa8598e64002c4e009c,7.4,Argentinian Restaurants,4bf58dd8d48988d107941735,Asado,6 Riverside Quay,3006,Southbank,-37.821182,144.964206,National Gallery of Victoria,-37.822483,144.969304
+107,53e5c9b4498ec28b2456732d,6.9,Burger Joints,4bf58dd8d48988d16c941735,Rocket Burgers And Fries,26 Elizabeth St,3000,Melbourne,-37.818027,144.965017,National Gallery of Victoria,-37.822483,144.969304
+108,4eaa3a87d3e3846cbc91ab22,7.2,Dessert Shops,4bf58dd8d48988d1d0941735,Lindt Chocolate Café,Southgate Complex,3006,Southbank,-37.820073,144.965953,National Gallery of Victoria,-37.822483,144.969304
+109,501353a2e4b001b338d94465,7.3,Fast Food Restaurants,4bf58dd8d48988d16e941735,Lord Of The Fries,45 Swanston St.,3000,Melbourne,-37.816447,144.96698,National Gallery of Victoria,-37.822483,144.969304
+110,4b05874ef964a520b78a22e3,7.4,Australian Restaurants,4bf58dd8d48988d169941735,Melba Restaurant,"The Langham, 1 Southgate Ave",3006,Southbank,-37.820055,144.965476,National Gallery of Victoria,-37.822483,144.969304
+111,4b058747f964a5207c8822e3,8.2,Australian Restaurants,4bf58dd8d48988d169941735,Pure South,3 Southgate Ave,3006,Melbourne,-37.820232,144.965259,National Gallery of Victoria,-37.822483,144.969304
+112,4f65cd8be4b0ea77ceb1044e,6.8,Bars,4bf58dd8d48988d116941735,Left Bank Melbourne,1 Southbank Blvd.,3006,Southbank,-37.820929,144.962353,National Gallery of Victoria,-37.822483,144.969304
+113,501c68d1e4b02330f5bc9615,6.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,8/2 Elizabeth St,3000,Melbourne,-37.817947,144.964895,National Gallery of Victoria,-37.822483,144.969304
+114,54dec54a498ee8f9ab9f05c8,7.2,Spanish Restaurants,4bf58dd8d48988d150941735,Teatro,Southbank Promenade,3000,Southbank,-37.81969,144.967424,National Gallery of Victoria,-37.822483,144.969304
+115,4b058747f964a520ad8822e3,7.4,Beer Gardens,4bf58dd8d48988d117941735,Beer DeLuxe,"Federation Square, Swanston St",3000,Melbourne,-37.817082,144.969176,National Gallery of Victoria,-37.822483,144.969304
+116,4cafd272aef16dcbe9f4ab54,5.6,Food Courts,4bf58dd8d48988d120951735,Southgate Food Court,3 Southgate Ave.,3006,Southbank,-37.819812,144.966534,National Gallery of Victoria,-37.822483,144.969304
+117,57a2f939498e6185b785c5e6,6.6,Italian Restaurants,4bf58dd8d48988d110941735,Criniti's,645 Freshwater Pl,3006,Melbourne,-37.821139,144.962257,National Gallery of Victoria,-37.822483,144.969304
+118,4b058747f964a520738822e3,7.2,Italian Restaurants,4bf58dd8d48988d110941735,Tutto Bene,Southgate Ave.,3006,Southbank,-37.820046,144.965892,National Gallery of Victoria,-37.822483,144.969304
+119,54e70ab9498e4209b118461c,8.6,Bars,4bf58dd8d48988d116941735,Arbory Bar & Eatery,Flinders Walk,3000,Melbourne,-37.81902,144.966004,National Gallery of Victoria,-37.822483,144.969304
+120,4bf4ffe494af2d7f6e313b72,5.8,Cafés,4bf58dd8d48988d16d941735,Time Out Cafe,"Federation Square, Flinders St",3000,Melbourne,-37.817786,144.968116,National Gallery of Victoria,-37.822483,144.969304
+121,5375b857498e82eeb4aefdf3,6.7,German Restaurants,4bf58dd8d48988d10d941735,Hophaus,"Shop MR5, Mid-Level Southgate, Southbank Prome...",3006,Southbank,-37.820042,144.965623,National Gallery of Victoria,-37.822483,144.969304
+122,4b058747f964a5208b8822e3,7,Pubs,4bf58dd8d48988d11b941735,Young & Jackson,Swanston St,3000,Melbourne,-37.817541,144.967225,National Gallery of Victoria,-37.822483,144.969304
+123,4b7df546f964a52022dc2fe3,5.4,Sandwich Places,4bf58dd8d48988d1c5941735,Rhumbas,Southgate Complex,3006,Southbank,-37.819827,144.966294,National Gallery of Victoria,-37.822483,144.969304
+124,4b058747f964a520aa8822e3,7.2,Australian Restaurants,4bf58dd8d48988d169941735,Taxi Kitchen,2 Swanston St,3000,Melbourne,-37.818529,144.968235,National Gallery of Victoria,-37.822483,144.969304
+125,4cf89c723875b1f7f0c7943c,8.7,Bars,4bf58dd8d48988d116941735,Ponyfish Island,Under the Yarra Pedestrian Bridge,3006,Southbank,-37.819918,144.965021,National Gallery of Victoria,-37.822483,144.969304
+126,4b058747f964a520a88822e3,6.1,Bars,4bf58dd8d48988d116941735,Transport Hotel,"Federation Square, 2 Swanston St",3000,Melbourne,-37.818523,144.968439,National Gallery of Victoria,-37.822483,144.969304
+127,4b05874ef964a5208a8a22e3,7.1,Japanese Restaurants,4bf58dd8d48988d111941735,Chocolate Buddha,Flinders St.,3000,Melbourne,-37.817952,144.968725,National Gallery of Victoria,-37.822483,144.969304
+128,4b0ddddaf964a520a65123e3,7.5,Portuguese Restaurants,4def73e84765ae376e57713a,Nando's,170 Flinders St,3000,Melbourne,-37.817079,144.969022,National Gallery of Victoria,-37.822483,144.969304
+129,504c60e9e4b06b3021b76f77,7.4,Steakhouses,4bf58dd8d48988d1cc941735,Breslin,2 Southbank Blvd,3006,Southbank,-37.820713,144.962729,National Gallery of Victoria,-37.822483,144.969304
+130,4b0b2bb3f964a520052e23e3,7.8,Cafés,4bf58dd8d48988d16d941735,The Bond Store,1 Riverside Quay,3006,Southbank,-37.821625,144.963895,National Gallery of Victoria,-37.822483,144.969304
+131,4b058750f964a520718b22e3,8.8,Delis / Bodegas,4bf58dd8d48988d146941735,King & Godfree,293 Lygon St,3053,Carlton,-37.798574,144.967259,Pidapipó Gelateria,-37.7983,144.96706
+132,52b3f5cc498eb8a07c6efe3c,9.3,Ice Cream Shops,4bf58dd8d48988d1c9941735,Pidapipó Gelateria,299 Lygon St,3053,Melbourne,-37.7983,144.96706,Pidapipó Gelateria,-37.7983,144.96706
+133,4b058746f964a520318822e3,7.2,Cafés,4bf58dd8d48988d16d941735,Tiamo,303 Lygon St,3053,Carlton,-37.798264,144.967391,Pidapipó Gelateria,-37.7983,144.96706
+134,4b2cc0bff964a52006c924e3,8.2,Cafés,4bf58dd8d48988d16d941735,Brunetti,380 Lygon St,3053,Melbourne,-37.798105,144.967827,Pidapipó Gelateria,-37.7983,144.96706
+135,4b1377fbf964a520399723e3,6.5,Fish & Chips Shops,4edd64a0c7ddd24ca188df1a,Sea Salt,364 Lygon St,3053,Melbourne,-37.798332,144.967386,Pidapipó Gelateria,-37.7983,144.96706
+136,52b00cef498e7b6a43b26fcc,8.9,Frozen Yogurt Shops,512e7cae91d4cbb4e5efe0af,Yo-Chi,194 Faraday St,3183,Carlton,-37.798659,144.967849,Pidapipó Gelateria,-37.7983,144.96706
+137,4b058745f964a520fb8722e3,7.4,Wine Bars,4bf58dd8d48988d123941735,Jimmy Watson's Wine Bar And Restaurant,333 Lygon St.,3053,Carlton,-37.797525,144.967388,Pidapipó Gelateria,-37.7983,144.96706
+138,50f6173be4b0cdce511debaa,7.9,Coffee Shops,4bf58dd8d48988d1e0931735,Market Lane Coffee,176 Faraday St,3053,Carlton,-37.798637,144.96846,Pidapipó Gelateria,-37.7983,144.96706
+139,4b0b8439f964a520053223e3,8.9,Pizza Places,4bf58dd8d48988d1ca941735,D.O.C. Pizza & Mozzarella Bar,295 Drummond St,3053,Carlton,-37.798954,144.96849,Pidapipó Gelateria,-37.7983,144.96706
+140,54781592498e1e48fd9a2c50,8.6,Cheese Shops,4bf58dd8d48988d11e951735,Milk the Cow,323 Lygon St,3052,Melbourne,-37.797781,144.967295,Pidapipó Gelateria,-37.7983,144.96706
+141,50f52847e4b0c40b56fa5110,8.3,Italian Restaurants,4bf58dd8d48988d110941735,D.O.C Espresso,326 Lygon St,3053,Carlton,-37.799227,144.96724,Pidapipó Gelateria,-37.7983,144.96706
+142,4cda5523d54954812e9035b2,6.7,Bars,4bf58dd8d48988d116941735,Cinema Nova Bar,380 Lygon St,3053,Melbourne,-37.797755,144.967492,Pidapipó Gelateria,-37.7983,144.96706
+143,544a034d498eb6077f6c1668,8.2,Cafés,4bf58dd8d48988d16d941735,Heartattack and Vine,"329 Lygon street, Carlton",3052,Carlton,-37.797634,144.96729,Pidapipó Gelateria,-37.7983,144.96706
+144,4b10e04df964a520697623e3,7.3,Italian Restaurants,4bf58dd8d48988d110941735,Trotters,400 Lygon St,3053,Carlton,-37.797595,144.967539,Pidapipó Gelateria,-37.7983,144.96706
+145,4ba9fd41f964a520f4413ae3,8,Italian Restaurants,4bf58dd8d48988d110941735,Donnini's Restaurant,320 Lygon St.,3053,Melbourne,-37.79949,144.967231,Pidapipó Gelateria,-37.7983,144.96706
+146,4b946e1ff964a5202f7934e3,5.8,Pizza Places,4bf58dd8d48988d1ca941735,Intersection Cafe,341 Lygon St,3053,Carlton,-37.797213,144.967369,Pidapipó Gelateria,-37.7983,144.96706
+147,4de1faa0c65b7a3e21100fd3,9.2,Wine Bars,4bf58dd8d48988d123941735,Carlton Wine Room,172-174 Faraday Street,3053,Carlton,-37.798584,144.96861,Pidapipó Gelateria,-37.7983,144.96706
+148,4f541dc2e4b050039f73094c,8.7,Cafés,4bf58dd8d48988d16d941735,Le Miel et la lune,330 Cardigan St.,3053,Melbourne,-37.797014,144.966208,Pidapipó Gelateria,-37.7983,144.96706
+149,5209822a11d2b041bbce4de9,8.2,Cafés,4bf58dd8d48988d16d941735,Vincent The Dog,348 Drummond Street,3053,Melbourne,-37.797688,144.968962,Pidapipó Gelateria,-37.7983,144.96706
+150,4f4ac1f3e4b011fb77f5c614,7.9,Coffee Shops,4bf58dd8d48988d1e0931735,Campos Coffee,144 Elgin St,3053,Carlton,-37.797214,144.969731,Pidapipó Gelateria,-37.7983,144.96706
+151,56b14e3e498e18541d770482,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Standing Room,Melbourne School Of Design,3010,Melbourne,-37.797294,144.962919,Pidapipó Gelateria,-37.7983,144.96706
+152,4b1dbb11f964a520851424e3,7.5,Italian Restaurants,4bf58dd8d48988d110941735,Papa Gino's,221 Lygon St,3053,Carlton,-37.80019,144.967027,Pidapipó Gelateria,-37.7983,144.96706
+153,4b07b79af964a52099ff22e3,6.5,Pubs,4bf58dd8d48988d11b941735,The Clyde Hotel,385 Cardigan St,3053,Melbourne,-37.797141,144.965965,Pidapipó Gelateria,-37.7983,144.96706
+154,4ea1fa3577c8d0ce5dc03a5d,8.4,Bakeries,4bf58dd8d48988d16a941735,Baker D. Chirico,178 Faraday St,3053,Carlton,-37.798788,144.968499,Pidapipó Gelateria,-37.7983,144.96706
+155,557d95ed498e73fbf1d8cae9,7.7,Burger Joints,4bf58dd8d48988d16c941735,New York Minute,235 Faraday St,3052,Carlton,-37.798832,144.96635,Pidapipó Gelateria,-37.7983,144.96706
+156,4b058746f964a520328822e3,6,Italian Restaurants,4bf58dd8d48988d110941735,University Cafe,257 Lygon St.,3053,Melbourne,-37.799519,144.967124,Pidapipó Gelateria,-37.7983,144.96706
+157,4fc73238e4b0da556a752ede,8.1,Yunnan Restaurants,52af3b9a3cf9994f4e043c07,Colourful Yunnan,680 Swanston St,3053,Carlton,-37.800535,144.96407,Pidapipó Gelateria,-37.7983,144.96706
+158,4b57bb89f964a5205f3e28e3,6.6,Sandwich Places,4bf58dd8d48988d1c5941735,Subway,672 Swanston St.,3053,Carlton,-37.800924,144.963884,Pidapipó Gelateria,-37.7983,144.96706
+159,52aef97a11d24f8223658b17,7.3,Pakistani Restaurants,52e81612bcbc57f1066b79f8,Ziyka Restaurant,138 Rathdowne St,3053,Carlton,-37.79613,144.97103,Pidapipó Gelateria,-37.7983,144.96706
+160,4b058746f964a5203f8822e3,8.3,Wine Bars,4bf58dd8d48988d123941735,Paris Go Bistro,116 Rathdowne St.,3053,Carlton,-37.796944,144.97087,Pidapipó Gelateria,-37.7983,144.96706
+161,54dc008d498e2dfd2baecf7c,8.5,Coffee Shops,4bf58dd8d48988d1e0931735,The Vertue of the Coffee Drink,8 Raffa Place Carlton,3053,Melbourne,-37.797648,144.968365,Pidapipó Gelateria,-37.7983,144.96706
+162,4b0881c7f964a520570d23e3,8.4,Dessert Shops,4bf58dd8d48988d1d0941735,Koko Black,167 Lygon St,3053,Carlton,-37.801804,144.966723,Pidapipó Gelateria,-37.7983,144.96706
+163,519c3597e4b0b7830c2d3d16,8.4,Coffee Shops,4bf58dd8d48988d1e0931735,Assembly Coffee & Tea,60 Pelham St,3053,Carlton,-37.80275,144.96729,Pidapipó Gelateria,-37.7983,144.96706
+164,4b17886bf964a52036c623e3,7.2,Japanese Restaurants,4bf58dd8d48988d111941735,Don Tojo,164 Cardigan St,3053,Carlton,-37.801384,144.96564,Pidapipó Gelateria,-37.7983,144.96706
+165,4b058743f964a520848722e3,5.6,Hotels,4bf58dd8d48988d1fa931735,Rydges On Swanston,701 Swanston St.,3053,Melbourne,-37.801351,144.963748,Pidapipó Gelateria,-37.7983,144.96706
+166,4bbc51853de8c9b65ad29aad,6,Italian Restaurants,4bf58dd8d48988d110941735,Copperwood Restaurant,318 Lygon St.,3053,Carlton,-37.799563,144.967189,Pidapipó Gelateria,-37.7983,144.96706
+167,4c1c4cd4b9f876b083cf7b46,6.9,Cafés,4bf58dd8d48988d16d941735,Seasons Provedore,199 Lygon St.,3053,Carlton,-37.800943,144.966888,Pidapipó Gelateria,-37.7983,144.96706
+168,51d9eaad498e4254d6e50135,8,Coffee Shops,4bf58dd8d48988d1e0931735,House Of Cards,"Engineering Ln, Gate 10",3052,Melbourne,-37.799243,144.961597,Pidapipó Gelateria,-37.7983,144.96706
+169,54df0908498e6c6790b7ba53,7.5,Egyptian Restaurants,5bae9231bedf3950379f89e1,Leyalina,191 Lygon St,3053,Carlton,-37.801125,144.96649,Pidapipó Gelateria,-37.7983,144.96706
+170,548e129b498e3012587f3e5c,9.3,Coffee Shops,4bf58dd8d48988d1e0931735,Little Rogue Coffee,20 Drewery Ln,3000,Melbourne,-37.810911,144.964027,Little Rogue Coffee,-37.810911,144.964027
+171,4b09f713f964a520812023e3,8.1,Japanese Restaurants,4bf58dd8d48988d111941735,Don Don,198 Little Lonsdale St,3000,Melbourne,-37.810737,144.963507,Little Rogue Coffee,-37.810911,144.964027
+172,4fbdbc78e4b0e542befde5b0,7.1,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,205 Swanston St.,3000,Melbourne,-37.811288,144.964576,Little Rogue Coffee,-37.810911,144.964027
+173,58e6d8f22bc5e25a8a95734c,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 151, 221 La Trobe St",3000,Melbourne,-37.809834,144.963763,Little Rogue Coffee,-37.810911,144.964027
+174,4ea6649777c831bd19353fea,6.4,Bars,4bf58dd8d48988d116941735,Asian Beer Cafe,Level 3 Melbourne Central,3000,Melbourne,-37.809887,144.964013,Little Rogue Coffee,-37.810911,144.964027
+175,4b337a62f964a520c51925e3,5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,275 Swanston St,3000,Melbourne,-37.8116,144.964554,Little Rogue Coffee,-37.810911,144.964027
+176,4cfa3cb6a6c76a3192119e5f,7.7,Cafés,4bf58dd8d48988d16d941735,Chocolateria San Churro,"Shop 255 QV Centre, Swanston St",3000,Melbourne,-37.810482,144.964394,Little Rogue Coffee,-37.810911,144.964027
+177,5354692f498e614ef2fa84c2,7.9,Food Courts,4bf58dd8d48988d120951735,Emporium Café Court,"Level 3, Emporium Melbourne, 287 Lonsdale St",3000,Melbourne,-37.811925,144.963785,Little Rogue Coffee,-37.810911,144.964027
+178,4c072bd30e0a2d7fb90ced0c,6.3,Dessert Shops,4bf58dd8d48988d1d0941735,The Pancake Parlour,211 La Trobe St,3000,Melbourne,-37.810284,144.963128,Little Rogue Coffee,-37.810911,144.964027
+179,4b1104e7f964a520817723e3,7.6,Dessert Shops,4bf58dd8d48988d1d0941735,Max Brenner Chocolate Bar,Shop 25-27 Red Cape Ln,3000,Melbourne,-37.810692,144.965691,Little Rogue Coffee,-37.810911,144.964027
+180,535f0e49498e02d827e232fa,8.2,Coffee Shops,4bf58dd8d48988d1e0931735,Nespresso Boutique,"Store 30, Ground Floor, 287 Lonsdale Street",3000,Melbourne,-37.812153,144.96373,Little Rogue Coffee,-37.810911,144.964027
+181,4b058747f964a520a58822e3,8.3,Bars,4bf58dd8d48988d116941735,Cookie,1/252 Swanston St,3000,Melbourne,-37.812078,144.964929,Little Rogue Coffee,-37.810911,144.964027
+182,4b0e7e43f964a520015823e3,7.9,Greek Restaurants,4bf58dd8d48988d10e941735,Stalactites,183 Lonsdale St,3000,Melbourne,-37.81087,144.967065,Little Rogue Coffee,-37.810911,144.964027
+183,53165d6d498ebb28a12213b3,9.2,Donut Shops,4bf58dd8d48988d148941735,Shortstop Coffee & Donuts,12 Sutherland Street,3000,Melbourne,-37.81124,144.961,Little Rogue Coffee,-37.810911,144.964027
+184,5b2df66ff79faa002c8732b6,8,Cafés,4bf58dd8d48988d16d941735,Rustica,Melbourne Central Level 2,3000,Melbourne,-37.811528,144.963492,Little Rogue Coffee,-37.810911,144.964027
+185,59d2d094a795bd146cb967e2,6.6,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,117 Swanston St,3000,Melbourne,-37.814848,144.966304,Little Rogue Coffee,-37.810911,144.964027
+186,4b0a0d74f964a5205b2123e3,5.7,Shopping Malls,4bf58dd8d48988d1fd941735,Galleria,385 Bourke St,3000,Melbourne,-37.815089,144.963063,Little Rogue Coffee,-37.810911,144.964027
+187,4ba7f1e4f964a520cac039e3,7.5,Food Courts,4bf58dd8d48988d120951735,David Jones Food Hall,David Jones,3000,Melbourne,-37.81384,144.964586,Little Rogue Coffee,-37.810911,144.964027
+188,4b1b4929f964a5208dfa23e3,7.3,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 5, 235 Bourke St.",3000,Melbourne,-37.813392,144.966234,Little Rogue Coffee,-37.810911,144.964027
+189,4b064fa9f964a520a7ea22e3,7.3,Vietnamese Restaurants,4bf58dd8d48988d14a941735,Mekong Vietnamese,241 Swanston St.,3000,Melbourne,-37.8123,144.96504,Little Rogue Coffee,-37.810911,144.964027
+190,4bdd1144645e0f47f2cb6a19,5.6,Food Courts,4bf58dd8d48988d120951735,The Dining Hall,Melbourne Central Shopping Centre,3000,Melbourne,-37.810317,144.963056,Little Rogue Coffee,-37.810911,144.964027
+191,58df373de7f1cf4b9bbc7a06,6.9,Chinese Restaurants,4bf58dd8d48988d145941735,David's Artisan Hot Pot,279 La Trobe Street,3000,Melbourne,-37.81067,144.96094,Little Rogue Coffee,-37.810911,144.964027
+192,557faa14498e003d0f96b102,7.5,Dumpling Restaurants,4bf58dd8d48988d108941735,Din Tai Fung ???,"Level 4, Emporium Melbourne, 287 Lonsdale Street",3000,Melbourne CBD,-37.812414,144.964077,Little Rogue Coffee,-37.810911,144.964027
+193,50429fa7e4b00a5804c4e20e,7.3,Malay Restaurants,4bf58dd8d48988d156941735,Mamak,366 Lonsdale St,3000,Melbourne,-37.812426,144.96159,Little Rogue Coffee,-37.810911,144.964027
+194,4b7a0b3af964a5206a202fe3,5.7,Food Courts,4bf58dd8d48988d120951735,Melbourne Central Food Court,"LG Level, Melbourne Central",3000,Melbourne,-37.810319,144.962996,Little Rogue Coffee,-37.810911,144.964027
+195,566a99eb498eb34bbe832ed7,8.3,Burger Joints,4bf58dd8d48988d16c941735,8bit,231 Swanston St,3000,Melbourne CBD,-37.812603,144.964916,Little Rogue Coffee,-37.810911,144.964027
+196,58a7f2e65cab2f6649255137,8.8,Japanese Restaurants,4bf58dd8d48988d111941735,Calia,287 Lonsdale street,3000,Melbourne,-37.812724,144.96393,Little Rogue Coffee,-37.810911,144.964027
+197,584b7c980802cb76416337de,7.9,Burger Joints,4bf58dd8d48988d16c941735,Betty's Burgers,97 Elizabeth St,3000,Melbourne,-37.81593,144.963798,Little Rogue Coffee,-37.810911,144.964027
+198,59cdb84bf62f2b7597d3b9f4,8.4,Thai Restaurants,4bf58dd8d48988d149941735,Dodee Paidang Thai Street Food Bar And Cafe,353 Little Collins St,3000,Melbourne,-37.815654,144.963264,Little Rogue Coffee,-37.810911,144.964027
+199,4b058747f964a520718822e3,8.7,Dessert Shops,4bf58dd8d48988d1d0941735,Koko Black,Shop 4 Royal Arcade,3000,Melbourne,-37.814485,144.964033,Little Rogue Coffee,-37.810911,144.964027
+200,4b10a369f964a520297423e3,7.2,Coffee Shops,4bf58dd8d48988d1e0931735,Sensory Lab,297 Little Collins St.,3000,Melbourne,-37.814806,144.965098,Little Rogue Coffee,-37.810911,144.964027
+201,5853805176f2ca378f9afb07,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,385 Bourke St,3000,Melbourne,-37.814721,144.963272,Little Rogue Coffee,-37.810911,144.964027
+202,56e675f2498ed140e11c4a72,7.3,Dim Sum Restaurants,4bf58dd8d48988d1f5931735,Tim Ho Wan,206 Bourke St,3000,Melbourne,-37.813025,144.967086,Little Rogue Coffee,-37.810911,144.964027
+203,5a15f5fde4c4594c8eb555ab,6.9,Coffee Shops,4bf58dd8d48988d1e0931735,Industry Beans,345 Little Collins Street,3000,Melbourne,-37.815315,144.963249,Little Rogue Coffee,-37.810911,144.964027
+204,4b058748f964a520cf8822e3,9,Coffee Shops,4bf58dd8d48988d1e0931735,Brother Baba Budan,359 Little Bourke St,3000,Melbourne,-37.813445,144.962137,Little Rogue Coffee,-37.810911,144.964027
+205,56ab443f498e45f9a87c3627,8.2,Ramen Restaurants,55a59bace4b013909087cb24,Shujinko,225 Russell St,3000,Melbourne,-37.811213,144.967384,Little Rogue Coffee,-37.810911,144.964027
+206,55e6828a498eb23090956e29,9.2,Cafés,4bf58dd8d48988d16d941735,Brick Lane,33 Guildford Ln,3000,Melbourne CBD,-37.811341,144.959816,Little Rogue Coffee,-37.810911,144.964027
+207,5178a911e4b0d062d75adae4,8.6,Cafés,4bf58dd8d48988d16d941735,Operator25,25 Wills St,3000,Melbourne,-37.810705,144.957075,Little Rogue Coffee,-37.810911,144.964027
+208,550a26f6498e6e51068eb03d,8.3,Cafés,4bf58dd8d48988d16d941735,Oli & Levi,"Shop B17, 385 Bourke St",3000,Melbourne,-37.814498,144.962681,Little Rogue Coffee,-37.810911,144.964027
+209,50a6120be4b0b3c0aafc8de1,8.1,Gastropubs,4bf58dd8d48988d155941735,Captain Melville,34 Franklin St,3000,Melbourne,-37.807792,144.961638,Little Rogue Coffee,-37.810911,144.964027
+210,4cc11204d363721ef20d58c9,7.6,Cafés,4bf58dd8d48988d16d941735,Brunetti,Level 3 Myer,3000,Melbourne,-37.813286,144.963748,Little Rogue Coffee,-37.810911,144.964027
+211,4d6332ea6973a35d5735a5ea,7.3,Food Courts,4bf58dd8d48988d120951735,VIC Marketplace Food Court,Elizabeth St.,3000,Melbourne,-37.806368,144.958443,Little Rogue Coffee,-37.810911,144.964027
+212,4f580d7de4b0b8ced71f4d35,6.9,Sandwich Places,4bf58dd8d48988d1c5941735,Schnitz,203 Elizabeth St.,3000,Melbourne,-37.813613,144.962877,Little Rogue Coffee,-37.810911,144.964027
+213,53eb306c498eb4d043834807,8.1,Ramen Restaurants,55a59bace4b013909087cb24,Hakata Gensuke,168 Russell St,3000,Melbourne,-37.812271,144.967908,Little Rogue Coffee,-37.810911,144.964027
+214,52ef60fa498e7d0e5c27a123,8.7,Grocery Stores,4bf58dd8d48988d118951735,Broad Bean Organic Grocer,"Shop 3, 26 Fanning St",3006,Southbank,-37.822588,144.966912,Melbourne Recital Centre,-37.823685,144.967599
+215,4b2ec8eaf964a520a1e624e3,7.8,Bars,4bf58dd8d48988d116941735,Belgian Beer Cafe Melbourne,5 Riverside Quay,3006,Southbank,-37.821484,144.964225,Melbourne Recital Centre,-37.823685,144.967599
+216,4b205240f964a520913024e3,5.9,Australian Restaurants,4bf58dd8d48988d169941735,Bear Brass,"Southgate Precinct, 3 Southgate Ave",3006,Southbank,-37.819814,144.965957,Melbourne Recital Centre,-37.823685,144.967599
+217,4ec23dc49adfe2b7b73b02a8,8.4,Seafood Restaurants,4bf58dd8d48988d1ce941735,Waterfront Seafood-Bar-Grill,"Ground Floor, Shop 20/3",3006,Southbank,-37.820029,144.965557,Melbourne Recital Centre,-37.823685,144.967599
+218,52848ec511d2e94c87e3c206,8,Italian Restaurants,4bf58dd8d48988d110941735,Fatto Bar & Cantina,"River Terrace, Arts Centre Melbourne",3004,Melbourne,-37.819709,144.967785,Melbourne Recital Centre,-37.823685,144.967599
+219,4b05eec5f964a52017e622e3,7.7,Steakhouses,4bf58dd8d48988d1cc941735,The Meat & Wine Co,3 Queens Bridge St.,3006,Southbank,-37.821298,144.961673,Melbourne Recital Centre,-37.823685,144.967599
+220,4cc63b1442d1b60c3e572813,6,Sandwich Places,4bf58dd8d48988d1c5941735,Subway,1 Elizabeth St,3000,Melbourne,-37.817979,144.964697,Melbourne Recital Centre,-37.823685,144.967599
+221,51c0de5b498e3becda4ab395,6,Cafés,4bf58dd8d48988d16d941735,Saporito Cafe,Kavanagh St,3006,Southbank,-37.823075,144.966494,Melbourne Recital Centre,-37.823685,144.967599
+222,4b058747f964a520738822e3,7.2,Italian Restaurants,4bf58dd8d48988d110941735,Tutto Bene,Southgate Ave.,3006,Southbank,-37.820046,144.965892,Melbourne Recital Centre,-37.823685,144.967599
+223,4b6e42cef964a520d9b42ce3,5.5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,3 Freshwater Pl,3006,Southbank,-37.821128,144.962017,Melbourne Recital Centre,-37.823685,144.967599
+224,4b11d062f964a520398523e3,7.5,Donut Shops,4bf58dd8d48988d148941735,Walker's Doughnuts,2/26 Elizabeth St,3000,Melbourne,-37.818019,144.96506,Melbourne Recital Centre,-37.823685,144.967599
+225,4b7df546f964a52022dc2fe3,5.4,Sandwich Places,4bf58dd8d48988d1c5941735,Rhumbas,Southgate Complex,3006,Southbank,-37.819827,144.966294,Melbourne Recital Centre,-37.823685,144.967599
+226,4b05874ef964a520b78a22e3,7.4,Australian Restaurants,4bf58dd8d48988d169941735,Melba Restaurant,"The Langham, 1 Southgate Ave",3006,Southbank,-37.820055,144.965476,Melbourne Recital Centre,-37.823685,144.967599
+227,4b058747f964a5207c8822e3,8.2,Australian Restaurants,4bf58dd8d48988d169941735,Pure South,3 Southgate Ave,3006,Melbourne,-37.820232,144.965259,Melbourne Recital Centre,-37.823685,144.967599
+228,5036122fe4b0853eeba6e6ec,7.7,Japanese Restaurants,4bf58dd8d48988d111941735,Saké Restaurant and Bar,100 St Kilda Rd,3000,Melbourne,-37.819594,144.967724,Melbourne Recital Centre,-37.823685,144.967599
+229,4cfc687592386a31ac9691c9,6.8,Restaurants,4bf58dd8d48988d1c4941735,Ludlow Bar & Dining Room,"Building 3, 6 Riverside Quay",3006,Southbank,-37.820525,144.964032,Melbourne Recital Centre,-37.823685,144.967599
+230,4cf89c723875b1f7f0c7943c,8.7,Bars,4bf58dd8d48988d116941735,Ponyfish Island,Under the Yarra Pedestrian Bridge,3006,Southbank,-37.819918,144.965021,Melbourne Recital Centre,-37.823685,144.967599
+231,4b0b2bb3f964a520052e23e3,7.8,Cafés,4bf58dd8d48988d16d941735,The Bond Store,1 Riverside Quay,3006,Southbank,-37.821625,144.963895,Melbourne Recital Centre,-37.823685,144.967599
+232,4e7acfa445dd96f1c36a2482,6.7,Cocktail Bars,4bf58dd8d48988d11e941735,Leftbank,Southbank,3006,Melbourne,-37.820872,144.962491,Melbourne Recital Centre,-37.823685,144.967599
+233,4bd26f23462cb7130c7ddc07,7.6,Hotel Bars,4bf58dd8d48988d1d5941735,Aria Bar & Lounge,1 Southgate Ave.,3006,Melbourne,-37.820443,144.965498,Melbourne Recital Centre,-37.823685,144.967599
+234,4bc3e5fe74a9a5932c44d5f6,6.4,Cafés,4bf58dd8d48988d16d941735,Malthouse Kitchen,113 Sturt St,3006,Southbank,-37.82699,144.96667,Melbourne Recital Centre,-37.823685,144.967599
+235,58087ca938fa47c09f5a3962,7.6,Pizza Places,4bf58dd8d48988d1ca941735,My Goodness Pizza,186 City Rd,3006,Melbourne,-37.824102,144.961944,Melbourne Recital Centre,-37.823685,144.967599
+236,5b811fa8598e64002c4e009c,7.4,Argentinian Restaurants,4bf58dd8d48988d107941735,Asado,6 Riverside Quay,3006,Southbank,-37.821182,144.964206,Melbourne Recital Centre,-37.823685,144.967599
+237,4db8e18143a1e5b1e2beacd9,7.8,Burger Joints,4bf58dd8d48988d16c941735,Grill'd,26 Southgate Ave,3006,Southbank,-37.819744,144.966577,Melbourne Recital Centre,-37.823685,144.967599
+238,4eaa3a87d3e3846cbc91ab22,7.2,Dessert Shops,4bf58dd8d48988d1d0941735,Lindt Chocolate Café,Southgate Complex,3006,Southbank,-37.820073,144.965953,Melbourne Recital Centre,-37.823685,144.967599
+239,53e5c9b4498ec28b2456732d,6.9,Burger Joints,4bf58dd8d48988d16c941735,Rocket Burgers And Fries,26 Elizabeth St,3000,Melbourne,-37.818027,144.965017,Melbourne Recital Centre,-37.823685,144.967599
+240,4f65cd8be4b0ea77ceb1044e,6.8,Bars,4bf58dd8d48988d116941735,Left Bank Melbourne,1 Southbank Blvd.,3006,Southbank,-37.820929,144.962353,Melbourne Recital Centre,-37.823685,144.967599
+241,501c68d1e4b02330f5bc9615,6.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,8/2 Elizabeth St,3000,Melbourne,-37.817947,144.964895,Melbourne Recital Centre,-37.823685,144.967599
+242,54dec54a498ee8f9ab9f05c8,7.2,Spanish Restaurants,4bf58dd8d48988d150941735,Teatro,Southbank Promenade,3000,Southbank,-37.81969,144.967424,Melbourne Recital Centre,-37.823685,144.967599
+243,57a2f939498e6185b785c5e6,6.6,Italian Restaurants,4bf58dd8d48988d110941735,Criniti's,645 Freshwater Pl,3006,Melbourne,-37.821139,144.962257,Melbourne Recital Centre,-37.823685,144.967599
+244,4cafd272aef16dcbe9f4ab54,5.6,Food Courts,4bf58dd8d48988d120951735,Southgate Food Court,3 Southgate Ave.,3006,Southbank,-37.819812,144.966534,Melbourne Recital Centre,-37.823685,144.967599
+245,54e70ab9498e4209b118461c,8.6,Bars,4bf58dd8d48988d116941735,Arbory Bar & Eatery,Flinders Walk,3000,Melbourne,-37.81902,144.966004,Melbourne Recital Centre,-37.823685,144.967599
+246,5375b857498e82eeb4aefdf3,6.7,German Restaurants,4bf58dd8d48988d10d941735,Hophaus,"Shop MR5, Mid-Level Southgate, Southbank Prome...",3006,Southbank,-37.820042,144.965623,Melbourne Recital Centre,-37.823685,144.967599
+247,504c60e9e4b06b3021b76f77,7.4,Steakhouses,4bf58dd8d48988d1cc941735,Breslin,2 Southbank Blvd,3006,Southbank,-37.820713,144.962729,Melbourne Recital Centre,-37.823685,144.967599
+248,4b178713f964a5202bc623e3,5.3,Pizza Places,4bf58dd8d48988d1ca941735,Pepperoni's,7A Elizabeth St,3000,Melbourne,-37.81788,144.964921,Melbourne Recital Centre,-37.823685,144.967599
+249,51384a8fe4b0828b66c2a7d4,9.3,Wine Bars,4bf58dd8d48988d123941735,Neighbourhood Wine,1 Reid St,3068,Melbourne,-37.785133,144.977638,Neighbourhood Wine,-37.785133,144.977638
+250,58ef22cd2b98446fba5b87ad,7.7,Falafel Restaurants,4bf58dd8d48988d10b941735,Just Falafs,207 St Georges Rd,3068,Fitzroy North,-37.78427,144.98278,Neighbourhood Wine,-37.785133,144.977638
+251,5573ca39498e88c35b58a035,7.8,Pubs,4bf58dd8d48988d11b941735,The Empress Hotel,714 Nicholson St,3068,Fitzroy North,-37.782694,144.977754,Neighbourhood Wine,-37.785133,144.977638
+252,579a8adb498ec3cf147176e4,7.7,Turkish Restaurants,4f04af1f2fb6e1c99f3db0bb,Babajan,713 Nicholson St,3054,Melbourne,-37.78272,144.97738,Neighbourhood Wine,-37.785133,144.977638
+253,5673cf68498e9b49ce3f985d,7.5,Ice Cream Shops,4bf58dd8d48988d1c9941735,Billy Van Creamy,27 Best St,3068,Fitzroy North,-37.784,144.98299,Neighbourhood Wine,-37.785133,144.977638
+254,4bb662ee6edc76b051db301c,5.3,Bakeries,4bf58dd8d48988d16a941735,A Treat of France,765 Nicholson Street,3054,Carlton North,-37.781313,144.977864,Neighbourhood Wine,-37.785133,144.977638
+255,4b058750f964a5203b8b22e3,6.6,Bakeries,4bf58dd8d48988d16a941735,Natural Tucker,809 Nicholson Street,3054,Melbourne,-37.780407,144.978067,Neighbourhood Wine,-37.785133,144.977638
+256,4b11bbf1f964a520608323e3,6,Wine Bars,4bf58dd8d48988d123941735,Bar Fred,797 Nicholson St,3054,Carlton North,-37.78072,144.978026,Neighbourhood Wine,-37.785133,144.977638
+257,4bd175b4b221c9b6f689d5d0,7.8,Gastropubs,4bf58dd8d48988d155941735,Great Northern Hotel,644 Rathdowne St,3054,Carlton North,-37.78209,144.973501,Neighbourhood Wine,-37.785133,144.977638
+258,56dbaf87498e714be1283e69,7.5,Cafés,4bf58dd8d48988d16d941735,a fan's notes,787 Nicholson St.,3054,Carlton North,-37.7809,144.9777,Neighbourhood Wine,-37.785133,144.977638
+259,5261e76711d25c0be2ef9491,6.6,Ice Cream Shops,4bf58dd8d48988d1c9941735,Short Batch Ice Cream Co.,Edinburgh Gardens,3068,NORTH FITZROY,-37.786906,144.983114,Neighbourhood Wine,-37.785133,144.977638
+260,4b1f1786f964a520e22324e3,7.2,Bakeries,4bf58dd8d48988d16a941735,Dench Bakers,109 Scotchmer St,3065,Melbourne,-37.783208,144.982654,Neighbourhood Wine,-37.785133,144.977638
+261,4b6146c1f964a520c70e2ae3,7.9,Italian Restaurants,4bf58dd8d48988d110941735,Il Carretto Restaurant,479 Nicholson St.,3054,Carlton North,-37.788333,144.976552,Neighbourhood Wine,-37.785133,144.977638
+262,50320c0be4b0c17c83668ef9,8.7,Indian Restaurants,4bf58dd8d48988d10f941735,Horn Please,167 St Georges Rd,3068,Fitzroy North,-37.785203,144.982174,Neighbourhood Wine,-37.785133,144.977638
+263,4b058746f964a5205d8822e3,8.8,Vegetarian / Vegan Restaurants,4bf58dd8d48988d1d3941735,Moroccan Soup Bar,183 St Georges Rd,3068,Melbourne,-37.78485,144.98224,Neighbourhood Wine,-37.785133,144.977638
+264,55e6828a498eb23090956e29,9.2,Cafés,4bf58dd8d48988d16d941735,Brick Lane,33 Guildford Ln,3000,Melbourne CBD,-37.811341,144.959816,Brick Lane,-37.811341,144.959816
+265,53165d6d498ebb28a12213b3,9.2,Donut Shops,4bf58dd8d48988d148941735,Shortstop Coffee & Donuts,12 Sutherland Street,3000,Melbourne,-37.81124,144.961,Brick Lane,-37.811341,144.959816
+266,58df373de7f1cf4b9bbc7a06,6.9,Chinese Restaurants,4bf58dd8d48988d145941735,David's Artisan Hot Pot,279 La Trobe Street,3000,Melbourne,-37.81067,144.96094,Brick Lane,-37.811341,144.959816
+267,4b09f713f964a520812023e3,8.1,Japanese Restaurants,4bf58dd8d48988d111941735,Don Don,198 Little Lonsdale St,3000,Melbourne,-37.810737,144.963507,Brick Lane,-37.811341,144.959816
+268,4ea6649777c831bd19353fea,6.4,Bars,4bf58dd8d48988d116941735,Asian Beer Cafe,Level 3 Melbourne Central,3000,Melbourne,-37.809887,144.964013,Brick Lane,-37.811341,144.959816
+269,4ee91d794901e2d61a51221b,9.2,Coffee Shops,4bf58dd8d48988d1e0931735,Patricia Coffee Brewers,493-495 Little Bourke St,3000,Melbourne,-37.814598,144.95835,Brick Lane,-37.811341,144.959816
+270,4c072bd30e0a2d7fb90ced0c,6.3,Dessert Shops,4bf58dd8d48988d1d0941735,The Pancake Parlour,211 La Trobe St,3000,Melbourne,-37.810284,144.963128,Brick Lane,-37.811341,144.959816
+271,535f0e49498e02d827e232fa,8.2,Coffee Shops,4bf58dd8d48988d1e0931735,Nespresso Boutique,"Store 30, Ground Floor, 287 Lonsdale Street",3000,Melbourne,-37.812153,144.96373,Brick Lane,-37.811341,144.959816
+272,4ba7f1e4f964a520cac039e3,7.5,Food Courts,4bf58dd8d48988d120951735,David Jones Food Hall,David Jones,3000,Melbourne,-37.81384,144.964586,Brick Lane,-37.811341,144.959816
+273,4b337a62f964a520c51925e3,5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,275 Swanston St,3000,Melbourne,-37.8116,144.964554,Brick Lane,-37.811341,144.959816
+274,50429fa7e4b00a5804c4e20e,7.3,Malay Restaurants,4bf58dd8d48988d156941735,Mamak,366 Lonsdale St,3000,Melbourne,-37.812426,144.96159,Brick Lane,-37.811341,144.959816
+275,4bdd1144645e0f47f2cb6a19,5.6,Food Courts,4bf58dd8d48988d120951735,The Dining Hall,Melbourne Central Shopping Centre,3000,Melbourne,-37.810317,144.963056,Brick Lane,-37.811341,144.959816
+276,4b6cf034f964a520105f2ce3,7.6,Donut Shops,4bf58dd8d48988d148941735,American Doughnut Kitchen,513 Elizabeth St,3000,Melbourne,-37.80725,144.958219,Brick Lane,-37.811341,144.959816
+277,5b2df66ff79faa002c8732b6,8,Cafés,4bf58dd8d48988d16d941735,Rustica,Melbourne Central Level 2,3000,Melbourne,-37.811528,144.963492,Brick Lane,-37.811341,144.959816
+278,4b7a0b3af964a5206a202fe3,5.7,Food Courts,4bf58dd8d48988d120951735,Melbourne Central Food Court,"LG Level, Melbourne Central",3000,Melbourne,-37.810319,144.962996,Brick Lane,-37.811341,144.959816
+279,548e129b498e3012587f3e5c,9.3,Coffee Shops,4bf58dd8d48988d1e0931735,Little Rogue Coffee,20 Drewery Ln,3000,Melbourne,-37.810911,144.964027,Brick Lane,-37.811341,144.959816
+280,58e6d8f22bc5e25a8a95734c,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 151, 221 La Trobe St",3000,Melbourne,-37.809834,144.963763,Brick Lane,-37.811341,144.959816
+281,584b7c980802cb76416337de,7.9,Burger Joints,4bf58dd8d48988d16c941735,Betty's Burgers,97 Elizabeth St,3000,Melbourne,-37.81593,144.963798,Brick Lane,-37.811341,144.959816
+282,4b0a0d74f964a5205b2123e3,5.7,Shopping Malls,4bf58dd8d48988d1fd941735,Galleria,385 Bourke St,3000,Melbourne,-37.815089,144.963063,Brick Lane,-37.811341,144.959816
+283,59cdb84bf62f2b7597d3b9f4,8.4,Thai Restaurants,4bf58dd8d48988d149941735,Dodee Paidang Thai Street Food Bar And Cafe,353 Little Collins St,3000,Melbourne,-37.815654,144.963264,Brick Lane,-37.811341,144.959816
+284,5178a911e4b0d062d75adae4,8.6,Cafés,4bf58dd8d48988d16d941735,Operator25,25 Wills St,3000,Melbourne,-37.810705,144.957075,Brick Lane,-37.811341,144.959816
+285,4b058747f964a520718822e3,8.7,Dessert Shops,4bf58dd8d48988d1d0941735,Koko Black,Shop 4 Royal Arcade,3000,Melbourne,-37.814485,144.964033,Brick Lane,-37.811341,144.959816
+286,5853805176f2ca378f9afb07,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,385 Bourke St,3000,Melbourne,-37.814721,144.963272,Brick Lane,-37.811341,144.959816
+287,4b1104e7f964a520817723e3,7.6,Dessert Shops,4bf58dd8d48988d1d0941735,Max Brenner Chocolate Bar,Shop 25-27 Red Cape Ln,3000,Melbourne,-37.810692,144.965691,Brick Lane,-37.811341,144.959816
+288,4b058748f964a520cf8822e3,9,Coffee Shops,4bf58dd8d48988d1e0931735,Brother Baba Budan,359 Little Bourke St,3000,Melbourne,-37.813445,144.962137,Brick Lane,-37.811341,144.959816
+289,566a99eb498eb34bbe832ed7,8.3,Burger Joints,4bf58dd8d48988d16c941735,8bit,231 Swanston St,3000,Melbourne CBD,-37.812603,144.964916,Brick Lane,-37.811341,144.959816
+290,5354692f498e614ef2fa84c2,7.9,Food Courts,4bf58dd8d48988d120951735,Emporium Café Court,"Level 3, Emporium Melbourne, 287 Lonsdale St",3000,Melbourne,-37.811925,144.963785,Brick Lane,-37.811341,144.959816
+291,5a15f5fde4c4594c8eb555ab,6.9,Coffee Shops,4bf58dd8d48988d1e0931735,Industry Beans,345 Little Collins Street,3000,Melbourne,-37.815315,144.963249,Brick Lane,-37.811341,144.959816
+292,58a7f2e65cab2f6649255137,8.8,Japanese Restaurants,4bf58dd8d48988d111941735,Calia,287 Lonsdale street,3000,Melbourne,-37.812724,144.96393,Brick Lane,-37.811341,144.959816
+293,4cfa3cb6a6c76a3192119e5f,7.7,Cafés,4bf58dd8d48988d16d941735,Chocolateria San Churro,"Shop 255 QV Centre, Swanston St",3000,Melbourne,-37.810482,144.964394,Brick Lane,-37.811341,144.959816
+294,507e1c68e4b04a2c7cc62bb9,7.6,Mexican Restaurants,4bf58dd8d48988d1c1941735,Guzman y Gomez,289-299 Swanston St,3000,Melbourne,-37.811168,144.964248,Brick Lane,-37.811341,144.959816
+295,5b46c9aff870fd0039f72963,8.8,Coffee Shops,4bf58dd8d48988d1e0931735,Market Lane Coffee,83 Victoria Street,3004,Melbourne,-37.806326,144.958053,Brick Lane,-37.811341,144.959816
+296,5680eb5b498ec1c984459343,7.8,Sushi Restaurants,4bf58dd8d48988d1d2941735,Tetsujin,"Level 4, Emporium Shopping Centre",3000,Melbourne,-37.811958,144.964135,Brick Lane,-37.811341,144.959816
+297,550a26f6498e6e51068eb03d,8.3,Cafés,4bf58dd8d48988d16d941735,Oli & Levi,"Shop B17, 385 Bourke St",3000,Melbourne,-37.814498,144.962681,Brick Lane,-37.811341,144.959816
+298,50a6120be4b0b3c0aafc8de1,8.1,Gastropubs,4bf58dd8d48988d155941735,Captain Melville,34 Franklin St,3000,Melbourne,-37.807792,144.961638,Brick Lane,-37.811341,144.959816
+299,4b1b4929f964a5208dfa23e3,7.3,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 5, 235 Bourke St.",3000,Melbourne,-37.813392,144.966234,Brick Lane,-37.811341,144.959816
+300,4fbdbc78e4b0e542befde5b0,7.1,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,205 Swanston St.,3000,Melbourne,-37.811288,144.964576,Brick Lane,-37.811341,144.959816
+301,4d6332ea6973a35d5735a5ea,7.3,Food Courts,4bf58dd8d48988d120951735,VIC Marketplace Food Court,Elizabeth St.,3000,Melbourne,-37.806368,144.958443,Brick Lane,-37.811341,144.959816
+302,4cc11204d363721ef20d58c9,7.6,Cafés,4bf58dd8d48988d16d941735,Brunetti,Level 3 Myer,3000,Melbourne,-37.813286,144.963748,Brick Lane,-37.811341,144.959816
+303,4b058747f964a520a58822e3,8.3,Bars,4bf58dd8d48988d116941735,Cookie,1/252 Swanston St,3000,Melbourne,-37.812078,144.964929,Brick Lane,-37.811341,144.959816
+304,4b064fa9f964a520a7ea22e3,7.3,Vietnamese Restaurants,4bf58dd8d48988d14a941735,Mekong Vietnamese,241 Swanston St.,3000,Melbourne,-37.8123,144.96504,Brick Lane,-37.811341,144.959816
+305,4f580d7de4b0b8ced71f4d35,6.9,Sandwich Places,4bf58dd8d48988d1c5941735,Schnitz,203 Elizabeth St.,3000,Melbourne,-37.813613,144.962877,Brick Lane,-37.811341,144.959816
+306,557faa14498e003d0f96b102,7.5,Dumpling Restaurants,4bf58dd8d48988d108941735,Din Tai Fung ???,"Level 4, Emporium Melbourne, 287 Lonsdale Street",3000,Melbourne CBD,-37.812414,144.964077,Brick Lane,-37.811341,144.959816
+307,4b058748f964a520cf8822e3,9,Coffee Shops,4bf58dd8d48988d1e0931735,Brother Baba Budan,359 Little Bourke St,3000,Melbourne,-37.813445,144.962137,Tipo 00,-37.813527,144.961978
+308,550a26f6498e6e51068eb03d,8.3,Cafés,4bf58dd8d48988d16d941735,Oli & Levi,"Shop B17, 385 Bourke St",3000,Melbourne,-37.814498,144.962681,Tipo 00,-37.813527,144.961978
+309,4b058747f964a520718822e3,8.7,Dessert Shops,4bf58dd8d48988d1d0941735,Koko Black,Shop 4 Royal Arcade,3000,Melbourne,-37.814485,144.964033,Tipo 00,-37.813527,144.961978
+310,5853805176f2ca378f9afb07,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,385 Bourke St,3000,Melbourne,-37.814721,144.963272,Tipo 00,-37.813527,144.961978
+311,5354692f498e614ef2fa84c2,7.9,Food Courts,4bf58dd8d48988d120951735,Emporium Café Court,"Level 3, Emporium Melbourne, 287 Lonsdale St",3000,Melbourne,-37.811925,144.963785,Tipo 00,-37.813527,144.961978
+312,53165d6d498ebb28a12213b3,9.2,Donut Shops,4bf58dd8d48988d148941735,Shortstop Coffee & Donuts,12 Sutherland Street,3000,Melbourne,-37.81124,144.961,Tipo 00,-37.813527,144.961978
+313,535f0e49498e02d827e232fa,8.2,Coffee Shops,4bf58dd8d48988d1e0931735,Nespresso Boutique,"Store 30, Ground Floor, 287 Lonsdale Street",3000,Melbourne,-37.812153,144.96373,Tipo 00,-37.813527,144.961978
+314,4b10a369f964a520297423e3,7.2,Coffee Shops,4bf58dd8d48988d1e0931735,Sensory Lab,297 Little Collins St.,3000,Melbourne,-37.814806,144.965098,Tipo 00,-37.813527,144.961978
+315,4ea6649777c831bd19353fea,6.4,Bars,4bf58dd8d48988d116941735,Asian Beer Cafe,Level 3 Melbourne Central,3000,Melbourne,-37.809887,144.964013,Tipo 00,-37.813527,144.961978
+316,4b0a0d74f964a5205b2123e3,5.7,Shopping Malls,4bf58dd8d48988d1fd941735,Galleria,385 Bourke St,3000,Melbourne,-37.815089,144.963063,Tipo 00,-37.813527,144.961978
+317,4ee91d794901e2d61a51221b,9.2,Coffee Shops,4bf58dd8d48988d1e0931735,Patricia Coffee Brewers,493-495 Little Bourke St,3000,Melbourne,-37.814598,144.95835,Tipo 00,-37.813527,144.961978
+318,58a7f2e65cab2f6649255137,8.8,Japanese Restaurants,4bf58dd8d48988d111941735,Calia,287 Lonsdale street,3000,Melbourne,-37.812724,144.96393,Tipo 00,-37.813527,144.961978
+319,4ba7f1e4f964a520cac039e3,7.5,Food Courts,4bf58dd8d48988d120951735,David Jones Food Hall,David Jones,3000,Melbourne,-37.81384,144.964586,Tipo 00,-37.813527,144.961978
+320,4b1104e7f964a520817723e3,7.6,Dessert Shops,4bf58dd8d48988d1d0941735,Max Brenner Chocolate Bar,Shop 25-27 Red Cape Ln,3000,Melbourne,-37.810692,144.965691,Tipo 00,-37.813527,144.961978
+321,4cfa3cb6a6c76a3192119e5f,7.7,Cafés,4bf58dd8d48988d16d941735,Chocolateria San Churro,"Shop 255 QV Centre, Swanston St",3000,Melbourne,-37.810482,144.964394,Tipo 00,-37.813527,144.961978
+322,4b1b4929f964a5208dfa23e3,7.3,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 5, 235 Bourke St.",3000,Melbourne,-37.813392,144.966234,Tipo 00,-37.813527,144.961978
+323,4cc11204d363721ef20d58c9,7.6,Cafés,4bf58dd8d48988d16d941735,Brunetti,Level 3 Myer,3000,Melbourne,-37.813286,144.963748,Tipo 00,-37.813527,144.961978
+324,50429fa7e4b00a5804c4e20e,7.3,Malay Restaurants,4bf58dd8d48988d156941735,Mamak,366 Lonsdale St,3000,Melbourne,-37.812426,144.96159,Tipo 00,-37.813527,144.961978
+325,4f580d7de4b0b8ced71f4d35,6.9,Sandwich Places,4bf58dd8d48988d1c5941735,Schnitz,203 Elizabeth St.,3000,Melbourne,-37.813613,144.962877,Tipo 00,-37.813527,144.961978
+326,4b337a62f964a520c51925e3,5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,275 Swanston St,3000,Melbourne,-37.8116,144.964554,Tipo 00,-37.813527,144.961978
+327,557faa14498e003d0f96b102,7.5,Dumpling Restaurants,4bf58dd8d48988d108941735,Din Tai Fung ???,"Level 4, Emporium Melbourne, 287 Lonsdale Street",3000,Melbourne CBD,-37.812414,144.964077,Tipo 00,-37.813527,144.961978
+328,4bdd1144645e0f47f2cb6a19,5.6,Food Courts,4bf58dd8d48988d120951735,The Dining Hall,Melbourne Central Shopping Centre,3000,Melbourne,-37.810317,144.963056,Tipo 00,-37.813527,144.961978
+329,5b2df66ff79faa002c8732b6,8,Cafés,4bf58dd8d48988d16d941735,Rustica,Melbourne Central Level 2,3000,Melbourne,-37.811528,144.963492,Tipo 00,-37.813527,144.961978
+330,548e129b498e3012587f3e5c,9.3,Coffee Shops,4bf58dd8d48988d1e0931735,Little Rogue Coffee,20 Drewery Ln,3000,Melbourne,-37.810911,144.964027,Tipo 00,-37.813527,144.961978
+331,5a15f5fde4c4594c8eb555ab,6.9,Coffee Shops,4bf58dd8d48988d1e0931735,Industry Beans,345 Little Collins Street,3000,Melbourne,-37.815315,144.963249,Tipo 00,-37.813527,144.961978
+332,5acdd1679d6a195ad563ff3a,9.2,Ice Cream Shops,4bf58dd8d48988d1c9941735,Pidapipó Gelateria,8 Degraves St,3000,Melbourne,-37.817715,144.965997,Tipo 00,-37.813527,144.961978
+333,58e6d8f22bc5e25a8a95734c,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 151, 221 La Trobe St",3000,Melbourne,-37.809834,144.963763,Tipo 00,-37.813527,144.961978
+334,584b7c980802cb76416337de,7.9,Burger Joints,4bf58dd8d48988d16c941735,Betty's Burgers,97 Elizabeth St,3000,Melbourne,-37.81593,144.963798,Tipo 00,-37.813527,144.961978
+335,5153695ce4b02965ee259940,9,Coffee Shops,4bf58dd8d48988d1e0931735,Dukes Coffee Roasters,247 Flinders Ln.,3000,Melbourne,-37.816763,144.966064,Tipo 00,-37.813527,144.961978
+336,59cdb84bf62f2b7597d3b9f4,8.4,Thai Restaurants,4bf58dd8d48988d149941735,Dodee Paidang Thai Street Food Bar And Cafe,353 Little Collins St,3000,Melbourne,-37.815654,144.963264,Tipo 00,-37.813527,144.961978
+337,4c072bd30e0a2d7fb90ced0c,6.3,Dessert Shops,4bf58dd8d48988d1d0941735,The Pancake Parlour,211 La Trobe St,3000,Melbourne,-37.810284,144.963128,Tipo 00,-37.813527,144.961978
+338,56e675f2498ed140e11c4a72,7.3,Dim Sum Restaurants,4bf58dd8d48988d1f5931735,Tim Ho Wan,206 Bourke St,3000,Melbourne,-37.813025,144.967086,Tipo 00,-37.813527,144.961978
+339,566a99eb498eb34bbe832ed7,8.3,Burger Joints,4bf58dd8d48988d16c941735,8bit,231 Swanston St,3000,Melbourne CBD,-37.812603,144.964916,Tipo 00,-37.813527,144.961978
+340,55e6828a498eb23090956e29,9.2,Cafés,4bf58dd8d48988d16d941735,Brick Lane,33 Guildford Ln,3000,Melbourne CBD,-37.811341,144.959816,Tipo 00,-37.813527,144.961978
+341,5695f94f38fa3814550e0339,8.7,Burger Joints,4bf58dd8d48988d16c941735,Royal Stacks,470 Collins St,3000,Melbourne,-37.817867,144.958489,Tipo 00,-37.813527,144.961978
+342,50a6120be4b0b3c0aafc8de1,8.1,Gastropubs,4bf58dd8d48988d155941735,Captain Melville,34 Franklin St,3000,Melbourne,-37.807792,144.961638,Tipo 00,-37.813527,144.961978
+343,4b09e3b5f964a520431f23e3,8.6,Tea Rooms,4bf58dd8d48988d1dc931735,Hopetoun Tea Rooms,"Block Arcade, 282 Collins St",3000,Melbourne,-37.815896,144.964634,Tipo 00,-37.813527,144.961978
+344,4fbdbc78e4b0e542befde5b0,7.1,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,205 Swanston St.,3000,Melbourne,-37.811288,144.964576,Tipo 00,-37.813527,144.961978
+345,5a12162d6a59504af6ee14eb,8,Cafés,4bf58dd8d48988d16d941735,Brunetti,250 Flinders Lane,3000,Melbourne,-37.81675,144.965858,Tipo 00,-37.813527,144.961978
+346,59e7ca0f60255e613bbb7d8e,7.4,Coffee Shops,4bf58dd8d48988d1e0931735,Tulip Coffee,7a Degraves St,3000,Melbourne,-37.817706,144.965937,Tipo 00,-37.813527,144.961978
+347,4b058747f964a520a58822e3,8.3,Bars,4bf58dd8d48988d116941735,Cookie,1/252 Swanston St,3000,Melbourne,-37.812078,144.964929,Tipo 00,-37.813527,144.961978
+348,4b064fa9f964a520a7ea22e3,7.3,Vietnamese Restaurants,4bf58dd8d48988d14a941735,Mekong Vietnamese,241 Swanston St.,3000,Melbourne,-37.8123,144.96504,Tipo 00,-37.813527,144.961978
+349,4b7a0b3af964a5206a202fe3,5.7,Food Courts,4bf58dd8d48988d120951735,Melbourne Central Food Court,"LG Level, Melbourne Central",3000,Melbourne,-37.810319,144.962996,Tipo 00,-37.813527,144.961978
+350,53eb306c498eb4d043834807,8.1,Ramen Restaurants,55a59bace4b013909087cb24,Hakata Gensuke,168 Russell St,3000,Melbourne,-37.812271,144.967908,Tipo 00,-37.813527,144.961978
+351,5acdd1679d6a195ad563ff3a,9.2,Ice Cream Shops,4bf58dd8d48988d1c9941735,Pidapipó Gelateria,8 Degraves St,3000,Melbourne,-37.817715,144.965997,Pidapipó Gelateria,-37.817715,144.965997
+352,59e7ca0f60255e613bbb7d8e,7.4,Coffee Shops,4bf58dd8d48988d1e0931735,Tulip Coffee,7a Degraves St,3000,Melbourne,-37.817706,144.965937,Pidapipó Gelateria,-37.817715,144.965997
+353,5153695ce4b02965ee259940,9,Coffee Shops,4bf58dd8d48988d1e0931735,Dukes Coffee Roasters,247 Flinders Ln.,3000,Melbourne,-37.816763,144.966064,Pidapipó Gelateria,-37.817715,144.965997
+354,5a12162d6a59504af6ee14eb,8,Cafés,4bf58dd8d48988d16d941735,Brunetti,250 Flinders Lane,3000,Melbourne,-37.81675,144.965858,Pidapipó Gelateria,-37.817715,144.965997
+355,4b058747f964a5208b8822e3,7,Pubs,4bf58dd8d48988d11b941735,Young & Jackson,Swanston St,3000,Melbourne,-37.817541,144.967225,Pidapipó Gelateria,-37.817715,144.965997
+356,54e70ab9498e4209b118461c,8.6,Bars,4bf58dd8d48988d116941735,Arbory Bar & Eatery,Flinders Walk,3000,Melbourne,-37.81902,144.966004,Pidapipó Gelateria,-37.817715,144.965997
+357,5677d114498ef82f61dac03e,8,Sushi Restaurants,4bf58dd8d48988d1d2941735,Sushi Hub,2/55 Swanston St,3000,Melbourne,-37.816257,144.967107,Pidapipó Gelateria,-37.817715,144.965997
+358,4cafd272aef16dcbe9f4ab54,5.6,Food Courts,4bf58dd8d48988d120951735,Southgate Food Court,3 Southgate Ave.,3006,Southbank,-37.819812,144.966534,Pidapipó Gelateria,-37.817715,144.965997
+359,4b058747f964a520ad8822e3,7.4,Beer Gardens,4bf58dd8d48988d117941735,Beer DeLuxe,"Federation Square, Swanston St",3000,Melbourne,-37.817082,144.969176,Pidapipó Gelateria,-37.817715,144.965997
+360,4b058745f964a520258822e3,7,Pubs,4bf58dd8d48988d11b941735,Sherlock Holmes,415 Collins St,3000,Melbourne,-37.817396,144.960752,Pidapipó Gelateria,-37.817715,144.965997
+361,5ab4c04d25ecca58ce6ee019,8,Dumpling Restaurants,4bf58dd8d48988d108941735,Drumplings,227 Bourke Street,3000,Melbourne,-37.813377,144.9669,Pidapipó Gelateria,-37.817715,144.965997
+362,4b05874ef964a520ac8a22e3,8.7,Spanish Restaurants,4bf58dd8d48988d150941735,MoVida,1 Hosier Ln,3000,Melbourne,-37.816619,144.969161,Pidapipó Gelateria,-37.817715,144.965997
+363,59d2d094a795bd146cb967e2,6.6,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,117 Swanston St,3000,Melbourne,-37.814848,144.966304,Pidapipó Gelateria,-37.817715,144.965997
+364,4b05eec5f964a52017e622e3,7.7,Steakhouses,4bf58dd8d48988d1cc941735,The Meat & Wine Co,3 Queens Bridge St.,3006,Southbank,-37.821298,144.961673,Pidapipó Gelateria,-37.817715,144.965997
+365,4bf4ffe494af2d7f6e313b72,5.8,Cafés,4bf58dd8d48988d16d941735,Time Out Cafe,"Federation Square, Flinders St",3000,Melbourne,-37.817786,144.968116,Pidapipó Gelateria,-37.817715,144.965997
+366,4b0a0d74f964a5205b2123e3,5.7,Shopping Malls,4bf58dd8d48988d1fd941735,Galleria,385 Bourke St,3000,Melbourne,-37.815089,144.963063,Pidapipó Gelateria,-37.817715,144.965997
+367,4ba7f1e4f964a520cac039e3,7.5,Food Courts,4bf58dd8d48988d120951735,David Jones Food Hall,David Jones,3000,Melbourne,-37.81384,144.964586,Pidapipó Gelateria,-37.817715,144.965997
+368,4b058747f964a520a88822e3,6.1,Bars,4bf58dd8d48988d116941735,Transport Hotel,"Federation Square, 2 Swanston St",3000,Melbourne,-37.818523,144.968439,Pidapipó Gelateria,-37.817715,144.965997
+369,4cf89c723875b1f7f0c7943c,8.7,Bars,4bf58dd8d48988d116941735,Ponyfish Island,Under the Yarra Pedestrian Bridge,3006,Southbank,-37.819918,144.965021,Pidapipó Gelateria,-37.817715,144.965997
+370,4b058747f964a5207c8822e3,8.2,Australian Restaurants,4bf58dd8d48988d169941735,Pure South,3 Southgate Ave,3006,Melbourne,-37.820232,144.965259,Pidapipó Gelateria,-37.817715,144.965997
+371,4b10a369f964a520297423e3,7.2,Coffee Shops,4bf58dd8d48988d1e0931735,Sensory Lab,297 Little Collins St.,3000,Melbourne,-37.814806,144.965098,Pidapipó Gelateria,-37.817715,144.965997
+372,584b7c980802cb76416337de,7.9,Burger Joints,4bf58dd8d48988d16c941735,Betty's Burgers,97 Elizabeth St,3000,Melbourne,-37.81593,144.963798,Pidapipó Gelateria,-37.817715,144.965997
+373,4dde183352b155583df9b62e,9,Asian Restaurants,4bf58dd8d48988d142941735,Chin Chin,125 Flinders Ln,3000,Melbourne,-37.815451,144.970189,Pidapipó Gelateria,-37.817715,144.965997
+374,59cdb84bf62f2b7597d3b9f4,8.4,Thai Restaurants,4bf58dd8d48988d149941735,Dodee Paidang Thai Street Food Bar And Cafe,353 Little Collins St,3000,Melbourne,-37.815654,144.963264,Pidapipó Gelateria,-37.817715,144.965997
+375,54dec54a498ee8f9ab9f05c8,7.2,Spanish Restaurants,4bf58dd8d48988d150941735,Teatro,Southbank Promenade,3000,Southbank,-37.81969,144.967424,Pidapipó Gelateria,-37.817715,144.965997
+376,4b09e3b5f964a520431f23e3,8.6,Tea Rooms,4bf58dd8d48988d1dc931735,Hopetoun Tea Rooms,"Block Arcade, 282 Collins St",3000,Melbourne,-37.815896,144.964634,Pidapipó Gelateria,-37.817715,144.965997
+377,4b058747f964a520718822e3,8.7,Dessert Shops,4bf58dd8d48988d1d0941735,Koko Black,Shop 4 Royal Arcade,3000,Melbourne,-37.814485,144.964033,Pidapipó Gelateria,-37.817715,144.965997
+378,5853805176f2ca378f9afb07,7.7,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,385 Bourke St,3000,Melbourne,-37.814721,144.963272,Pidapipó Gelateria,-37.817715,144.965997
+379,57864da9cd105b8b0cd3cbe3,8.4,Bars,4bf58dd8d48988d116941735,Garden State Hotel,101 Flinders La,3000,Melbourne,-37.815299,144.971007,Pidapipó Gelateria,-37.817715,144.965997
+380,5368ad36498eb3c4cc6e52a8,8.8,Asian Restaurants,4bf58dd8d48988d142941735,Supernormal,180 Flinders Ln,3000,Melbourne,-37.816003,144.968388,Pidapipó Gelateria,-37.817715,144.965997
+381,52ef60fa498e7d0e5c27a123,8.7,Grocery Stores,4bf58dd8d48988d118951735,Broad Bean Organic Grocer,"Shop 3, 26 Fanning St",3006,Southbank,-37.822588,144.966912,Pidapipó Gelateria,-37.817715,144.965997
+382,5a15f5fde4c4594c8eb555ab,6.9,Coffee Shops,4bf58dd8d48988d1e0931735,Industry Beans,345 Little Collins Street,3000,Melbourne,-37.815315,144.963249,Pidapipó Gelateria,-37.817715,144.965997
+383,4b058748f964a520cf8822e3,9,Coffee Shops,4bf58dd8d48988d1e0931735,Brother Baba Budan,359 Little Bourke St,3000,Melbourne,-37.813445,144.962137,Pidapipó Gelateria,-37.817715,144.965997
+384,56e675f2498ed140e11c4a72,7.3,Dim Sum Restaurants,4bf58dd8d48988d1f5931735,Tim Ho Wan,206 Bourke St,3000,Melbourne,-37.813025,144.967086,Pidapipó Gelateria,-37.817715,144.965997
+385,4f65cd8be4b0ea77ceb1044e,6.8,Bars,4bf58dd8d48988d116941735,Left Bank Melbourne,1 Southbank Blvd.,3006,Southbank,-37.820929,144.962353,Pidapipó Gelateria,-37.817715,144.965997
+386,550a26f6498e6e51068eb03d,8.3,Cafés,4bf58dd8d48988d16d941735,Oli & Levi,"Shop B17, 385 Bourke St",3000,Melbourne,-37.814498,144.962681,Pidapipó Gelateria,-37.817715,144.965997
+387,4b1b4929f964a5208dfa23e3,7.3,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 5, 235 Bourke St.",3000,Melbourne,-37.813392,144.966234,Pidapipó Gelateria,-37.817715,144.965997
+388,4b79fdfdf964a520181e2fe3,5.2,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,406 Bourke St.,3000,Melbourne,-37.814577,144.961989,Pidapipó Gelateria,-37.817715,144.965997
+389,55fe7a73498e1dc2a8706eaf,7.6,Korean Restaurants,4bf58dd8d48988d113941735,Korean Chicken and Beer SamSam ??,209 Swanston St,3000,Melbourne,-37.813064,144.965218,Pidapipó Gelateria,-37.817715,144.965997
+390,5905529cf8cbd41891905df0,7.3,Ramen Restaurants,55a59bace4b013909087cb24,Musashi Izakaya Ramen Bar,181 Russell St,3000,Melbourne,-37.812096,144.967801,Pidapipó Gelateria,-37.817715,144.965997
+391,4cc11204d363721ef20d58c9,7.6,Cafés,4bf58dd8d48988d16d941735,Brunetti,Level 3 Myer,3000,Melbourne,-37.813286,144.963748,Pidapipó Gelateria,-37.817715,144.965997
+392,5bb292bcf05ca8002df4184f,8.8,Bakeries,4bf58dd8d48988d16a941735,Lune Croissanterie,Shop 16/161 Collins St.,3000,Melbourne,-37.815514,144.969415,Pidapipó Gelateria,-37.817715,144.965997
+393,4f580d7de4b0b8ced71f4d35,6.9,Sandwich Places,4bf58dd8d48988d1c5941735,Schnitz,203 Elizabeth St.,3000,Melbourne,-37.813613,144.962877,Pidapipó Gelateria,-37.817715,144.965997
+394,50429fa7e4b00a5804c4e20e,7.3,Malay Restaurants,4bf58dd8d48988d156941735,Mamak,366 Lonsdale St,3000,Melbourne,-37.812426,144.96159,Pidapipó Gelateria,-37.817715,144.965997
+395,53eb306c498eb4d043834807,8.1,Ramen Restaurants,55a59bace4b013909087cb24,Hakata Gensuke,168 Russell St,3000,Melbourne,-37.812271,144.967908,Pidapipó Gelateria,-37.817715,144.965997
+396,4b0f05b3f964a520475e23e3,9.2,Vegetarian / Vegan Restaurants,4bf58dd8d48988d1d3941735,Lentil As Anything,Abbotsford Convent,3067,Melbourne,-37.802724,145.003507,Lentil As Anything,-37.802724,145.003507
+397,4dd5df621f6ee14682fd17d5,7.3,Cafés,4bf58dd8d48988d16d941735,VIT Cafe & Bar,413 Johnston Street,3067,Abbotsford,-37.800831,145.002174,Lentil As Anything,-37.802724,145.003507
+398,4b1047e4f964a520ed6c23e3,6.9,Cafés,4bf58dd8d48988d16d941735,Studley Park Boathouse,Boathouse Rd,3101,Melbourne,-37.801126,145.007852,Lentil As Anything,-37.802724,145.003507
+399,4b22f86ff964a5204f5124e3,6.1,Farmers Markets,4bf58dd8d48988d1fa941735,Collingwood Farmers market at Childrens farm,St Heliers St,3067,Abbotsford,-37.802958,145.005467,Lentil As Anything,-37.802724,145.003507
+400,4b06042bf964a5207ae722e3,7.1,Cafés,4bf58dd8d48988d16d941735,Chomp Cafe,1 Trennery Crescent,3067,Abbotsford,-37.800049,144.999953,Lentil As Anything,-37.802724,145.003507
+401,4b0f01b3f964a5200a5e23e3,9.1,Cafés,4bf58dd8d48988d16d941735,The Farm Cafe,St Heliers St,3067,Abbotsford,-37.80294,145.005706,Lentil As Anything,-37.802724,145.003507
+402,529949a911d2702ee4e42c7a,7.7,Cafés,4bf58dd8d48988d16d941735,The Kitchen at Weylandts,Gipps Street,3067,Abbotsford,-37.805311,144.997345,Lentil As Anything,-37.802724,145.003507
+403,4b0e7e43f964a520015823e3,7.9,Greek Restaurants,4bf58dd8d48988d10e941735,Stalactites,183 Lonsdale St,3000,Melbourne,-37.81087,144.967065,Union Electric,-37.811798,144.966687
+404,56ab443f498e45f9a87c3627,8.2,Ramen Restaurants,55a59bace4b013909087cb24,Shujinko,225 Russell St,3000,Melbourne,-37.811213,144.967384,Union Electric,-37.811798,144.966687
+405,56e675f2498ed140e11c4a72,7.3,Dim Sum Restaurants,4bf58dd8d48988d1f5931735,Tim Ho Wan,206 Bourke St,3000,Melbourne,-37.813025,144.967086,Union Electric,-37.811798,144.966687
+406,4b1104e7f964a520817723e3,7.6,Dessert Shops,4bf58dd8d48988d1d0941735,Max Brenner Chocolate Bar,Shop 25-27 Red Cape Ln,3000,Melbourne,-37.810692,144.965691,Union Electric,-37.811798,144.966687
+407,548e129b498e3012587f3e5c,9.3,Coffee Shops,4bf58dd8d48988d1e0931735,Little Rogue Coffee,20 Drewery Ln,3000,Melbourne,-37.810911,144.964027,Union Electric,-37.811798,144.966687
+408,4b1b4929f964a5208dfa23e3,7.3,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,"Shop 5, 235 Bourke St.",3000,Melbourne,-37.813392,144.966234,Union Electric,-37.811798,144.966687
+409,4b058747f964a520a58822e3,8.3,Bars,4bf58dd8d48988d116941735,Cookie,1/252 Swanston St,3000,Melbourne,-37.812078,144.964929,Union Electric,-37.811798,144.966687
+410,4fbdbc78e4b0e542befde5b0,7.1,Coffee Shops,4bf58dd8d48988d1e0931735,Starbucks,205 Swanston St.,3000,Melbourne,-37.811288,144.964576,Union Electric,-37.811798,144.966687
+411,4ea6649777c831bd19353fea,6.4,Bars,4bf58dd8d48988d116941735,Asian Beer Cafe,Level 3 Melbourne Central,3000,Melbourne,-37.809887,144.964013,Union Electric,-37.811798,144.966687
+412,5354692f498e614ef2fa84c2,7.9,Food Courts,4bf58dd8d48988d120951735,Emporium Café Court,"Level 3, Emporium Melbourne, 287 Lonsdale St",3000,Melbourne,-37.811925,144.963785,Union Electric,-37.811798,144.966687
+413,53eb306c498eb4d043834807,8.1,Ramen Restaurants,55a59bace4b013909087cb24,Hakata Gensuke,168 Russell St,3000,Melbourne,-37.812271,144.967908,Union Electric,-37.811798,144.966687
+414,4cfa3cb6a6c76a3192119e5f,7.7,Cafés,4bf58dd8d48988d16d941735,Chocolateria San Churro,"Shop 255 QV Centre, Swanston St",3000,Melbourne,-37.810482,144.964394,Union Electric,-37.811798,144.966687
+415,535f0e49498e02d827e232fa,8.2,Coffee Shops,4bf58dd8d48988d1e0931735,Nespresso Boutique,"Store 30, Ground Floor, 287 Lonsdale Street",3000,Melbourne,-37.812153,144.96373,Union Electric,-37.811798,144.966687
+416,4ba7f1e4f964a520cac039e3,7.5,Food Courts,4bf58dd8d48988d120951735,David Jones Food Hall,David Jones,3000,Melbourne,-37.81384,144.964586,Union Electric,-37.811798,144.966687
+417,4b0a0d74f964a5205b2123e3,5.7,Shopping Malls,4bf58dd8d48988d1fd941735,Galleria,385 Bourke St,3000,Melbourne,-37.815089,144.963063,Union Electric,-37.811798,144.966687
+418,4b337a62f964a520c51925e3,5,Fast Food Restaurants,4bf58dd8d48988d16e941735,McDonald's,275 Swanston St,3000,Melbourne,-37.8116,144.964554,Union Electric,-37.811798,144.966687
+419,557faa14498e003d0f96b102,7.5,Dumpling Restaurants,4bf58dd8d48988d108941735,Din Tai Fung ???,"Level 4, Emporium Melbourne, 287 Lonsdale Street",3000,Melbourne CBD,-37.812414,144.964077,Union Electric,-37.811798,144.966687
